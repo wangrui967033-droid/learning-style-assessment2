@@ -1,0 +1,1678 @@
+{
+  "core": [
+    {
+      "id": "V01",
+      "kind": "preference",
+      "form": "core",
+      "preference": "V",
+      "subdimension": "information_location",
+      "process": "learning",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "老师讲新课时，我会先看标题、加粗字和题目里的关键条件。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "V02",
+      "kind": "preference",
+      "form": "core",
+      "preference": "V",
+      "subdimension": "information_location",
+      "process": "memory",
+      "scenarioType": "life",
+      "direction": "reverse",
+      "prompt": "学习内容比较多时，就算有标记和提示，我有时也分不清哪些内容最重要。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "V03",
+      "kind": "preference",
+      "form": "core",
+      "preference": "V",
+      "subdimension": "graphic_representation",
+      "process": "learning",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "碰到难懂的内容时，有图、有箭头或示意图，我通常会更容易理解。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "V04",
+      "kind": "preference",
+      "form": "core",
+      "preference": "V",
+      "subdimension": "graphic_representation",
+      "process": "practice",
+      "scenarioType": "life",
+      "direction": "positive",
+      "prompt": "内容比较复杂时，画表格、列结构图，会让我更容易理清它们之间的关系。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "V05",
+      "kind": "preference",
+      "form": "core",
+      "preference": "V",
+      "subdimension": "relationship_organization",
+      "process": "memory",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "复习一章内容时，如果知道知识点之间怎么联系，我更容易想起这一章讲了什么。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "V06",
+      "kind": "preference",
+      "form": "core",
+      "preference": "V",
+      "subdimension": "relationship_organization",
+      "process": "improve",
+      "scenarioType": "academic",
+      "direction": "reverse",
+      "prompt": "几个知识点之间有联系时，就算整理过它们的关系，我有时还是不容易理解整体。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "V07",
+      "kind": "preference",
+      "form": "core",
+      "preference": "V",
+      "subdimension": "difference_identification",
+      "process": "practice",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "两个知识点或题目很像时，放在一起比较，我更容易发现它们的区别。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "V08",
+      "kind": "preference",
+      "form": "core",
+      "preference": "V",
+      "subdimension": "difference_identification",
+      "process": "improve",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "遇到看起来很像的题时，我会留意它和以前做过的题哪里不一样。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "A01",
+      "kind": "preference",
+      "form": "core",
+      "preference": "A",
+      "subdimension": "explanation_comprehension",
+      "process": "learning",
+      "scenarioType": "life",
+      "direction": "positive",
+      "prompt": "第一次学一个新方法时，别人一步一步讲，我会更容易明白。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "A02",
+      "kind": "preference",
+      "form": "core",
+      "preference": "A",
+      "subdimension": "explanation_comprehension",
+      "process": "improve",
+      "scenarioType": "academic",
+      "direction": "reverse",
+      "prompt": "别人只是口头讲错误原因时，我有时还是不容易真正弄懂。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "A03",
+      "kind": "preference",
+      "form": "core",
+      "preference": "A",
+      "subdimension": "sound_cues",
+      "process": "memory",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "要记重要内容时，读出来或听到自己的声音，会让我更容易记住。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "A04",
+      "kind": "preference",
+      "form": "core",
+      "preference": "A",
+      "subdimension": "sound_cues",
+      "process": "practice",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "老师上课强调过的关键词或总结的话，之后遇到类似问题时，会帮助我想起来。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "A05",
+      "kind": "preference",
+      "form": "core",
+      "preference": "A",
+      "subdimension": "language_expression",
+      "process": "learning",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "学完一个内容后，用自己的话讲一遍，我更容易发现哪里还没懂。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "A06",
+      "kind": "preference",
+      "form": "core",
+      "preference": "A",
+      "subdimension": "language_expression",
+      "process": "improve",
+      "scenarioType": "life",
+      "direction": "reverse",
+      "prompt": "有些时候，我自己感觉懂了，但一解释自己的想法，就不知道该怎么说。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "A07",
+      "kind": "preference",
+      "form": "core",
+      "preference": "A",
+      "subdimension": "question_answer_interaction",
+      "process": "memory",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "复习时，如果有人问我几个问题，我更容易发现自己漏掉了什么。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "A08",
+      "kind": "preference",
+      "form": "core",
+      "preference": "A",
+      "subdimension": "question_answer_interaction",
+      "process": "practice",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "讲题时，如果别人追问“为什么”，我更容易发现自己的思路哪里没想清楚。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "R01",
+      "kind": "preference",
+      "form": "core",
+      "preference": "R",
+      "subdimension": "text_comprehension",
+      "process": "learning",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "学习一个新概念时，看到清楚的定义、条件和例子，我会更容易明白。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "R02",
+      "kind": "preference",
+      "form": "core",
+      "preference": "R",
+      "subdimension": "text_comprehension",
+      "process": "memory",
+      "scenarioType": "life",
+      "direction": "reverse",
+      "prompt": "看完一段文字说明后，我有时还是抓不到里面最重要的信息。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "R03",
+      "kind": "preference",
+      "form": "core",
+      "preference": "R",
+      "subdimension": "structure_organization",
+      "process": "learning",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "学完一部分内容后，把重点重新整理一下，我会觉得思路更清楚。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "R04",
+      "kind": "preference",
+      "form": "core",
+      "preference": "R",
+      "subdimension": "structure_organization",
+      "process": "improve",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "订正错误时，把题目要求、自己的做法和错误原因写清楚，会帮助我找到问题。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "R05",
+      "kind": "preference",
+      "form": "core",
+      "preference": "R",
+      "subdimension": "written_expression",
+      "process": "memory",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "不用看资料，把自己记得的内容写下来，有时能让我发现遗漏。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "R06",
+      "kind": "preference",
+      "form": "core",
+      "preference": "R",
+      "subdimension": "written_expression",
+      "process": "practice",
+      "scenarioType": "academic",
+      "direction": "reverse",
+      "prompt": "做完一道题后，就算写过步骤，我有时还是不清楚自己的思路是否完整。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "R07",
+      "kind": "preference",
+      "form": "core",
+      "preference": "R",
+      "subdimension": "rule_presentation",
+      "process": "practice",
+      "scenarioType": "life",
+      "direction": "positive",
+      "prompt": "学会一个方法后，我会想想这种方法什么时候能用。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "R08",
+      "kind": "preference",
+      "form": "core",
+      "preference": "R",
+      "subdimension": "rule_presentation",
+      "process": "improve",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "做完一道比较复杂的题后，我会留意这类题有哪些条件和规律。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "K01",
+      "kind": "preference",
+      "form": "core",
+      "preference": "K",
+      "subdimension": "case_entry",
+      "process": "learning",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "碰到抽象内容时，先看一个具体例子，我通常更容易理解。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "K02",
+      "kind": "preference",
+      "form": "core",
+      "preference": "K",
+      "subdimension": "case_entry",
+      "process": "practice",
+      "scenarioType": "academic",
+      "direction": "reverse",
+      "prompt": "遇到没接触过的问题时，就算看过例子，我有时还是不知道第一步该怎么做。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "K03",
+      "kind": "preference",
+      "form": "core",
+      "preference": "K",
+      "subdimension": "hands_on_trial",
+      "process": "learning",
+      "scenarioType": "life",
+      "direction": "positive",
+      "prompt": "刚学一个新方法时，我通常想先自己试一下，再慢慢理解。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "K04",
+      "kind": "preference",
+      "form": "core",
+      "preference": "K",
+      "subdimension": "hands_on_trial",
+      "process": "memory",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "学过一种方法后，自己重新做一遍，会让我更清楚每一步应该怎么操作。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "K05",
+      "kind": "preference",
+      "form": "core",
+      "preference": "K",
+      "subdimension": "process_rehearsal",
+      "process": "memory",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "学习一个步骤比较多的方法时，自己完整做一遍，会让我更容易掌握。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "K06",
+      "kind": "preference",
+      "form": "core",
+      "preference": "K",
+      "subdimension": "process_rehearsal",
+      "process": "practice",
+      "scenarioType": "academic",
+      "direction": "reverse",
+      "prompt": "只看别人完成一个过程后，我自己重新做时，有时还是不知道下一步怎么进行。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "K07",
+      "kind": "preference",
+      "form": "core",
+      "preference": "K",
+      "subdimension": "contextual_presentation",
+      "process": "improve",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "订正一道错题时，把正确方法重新放回题目里做一遍，会帮助我理解。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "K08",
+      "kind": "preference",
+      "form": "core",
+      "preference": "K",
+      "subdimension": "contextual_presentation",
+      "process": "improve",
+      "scenarioType": "life",
+      "direction": "positive",
+      "prompt": "学一个知识后，如果能拿它解决实际问题，我会更容易明白它有什么用。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "science": [
+    {
+      "id": "LS01",
+      "kind": "science",
+      "strategy": "active_recall",
+      "direction": "positive",
+      "prompt": "学习完一个内容后，我有试过不看资料，先想想自己记得什么。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "LS02",
+      "kind": "science",
+      "strategy": "active_recall",
+      "direction": "reverse",
+      "prompt": "复习时，我通常直接看笔记，很少先回忆自己还记得多少。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "LS03",
+      "kind": "science",
+      "strategy": "spaced_repetition",
+      "direction": "positive",
+      "prompt": "学过的内容，我有试过过几天再回来复习。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "LS04",
+      "kind": "science",
+      "strategy": "spaced_repetition",
+      "direction": "reverse",
+      "prompt": "复习旧内容时，我更多是在考试前才重新看。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "LS05",
+      "kind": "science",
+      "strategy": "deliberate_practice",
+      "direction": "positive",
+      "prompt": "遇到总是做错的问题，我有试过专门找类似问题再练几次。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "LS06",
+      "kind": "science",
+      "strategy": "deliberate_practice",
+      "direction": "reverse",
+      "prompt": "做了很多题之后，我有时说不清这些题到底是在解决什么问题。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "LS07",
+      "kind": "science",
+      "strategy": "timely_feedback",
+      "direction": "positive",
+      "prompt": "做错题后，我有试过先找原因，再重新做一次。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "LS08",
+      "kind": "science",
+      "strategy": "timely_feedback",
+      "direction": "reverse",
+      "prompt": "看到答案知道错了之后，我有时会直接看过去，不再自己尝试。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "LS09",
+      "kind": "science",
+      "strategy": "metacognition",
+      "direction": "positive",
+      "prompt": "发现一种学习方法不太有效时，我会试着换一种方式。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "LS10",
+      "kind": "science",
+      "strategy": "metacognition",
+      "direction": "reverse",
+      "prompt": "即使现在的学习方式效果一般，我也经常继续按照原来的方式进行。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "reserve": [
+    {
+      "id": "V09",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "V",
+      "subdimension": "information_location",
+      "process": "learning",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "第一次看一页新材料时，如果标题、重点和条件有不同颜色或符号，我通常更快知道先看哪里。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "V10",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "V",
+      "subdimension": "information_location",
+      "process": "improve",
+      "scenarioType": "life",
+      "direction": "reverse",
+      "prompt": "检查生活中一件事哪里做错时，把关键位置圈出或标色，通常不太能帮我发现问题。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "V11",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "V",
+      "subdimension": "graphic_representation",
+      "process": "memory",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "reviewStatus": "inactive_reserve",
+      "active": false,
+      "prompt": "复习文字较多的内容时，我把关键关系画成简图或图表，通常更容易想起主要内容。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "V12",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "V",
+      "subdimension": "graphic_representation",
+      "process": "learning",
+      "scenarioType": "life",
+      "direction": "positive",
+      "reviewStatus": "inactive_reserve",
+      "active": false,
+      "prompt": "学习一项陌生流程时，我把各部分和先后关系画成图解，通常更快明白怎样配合。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "V13",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "V",
+      "subdimension": "relationship_organization",
+      "process": "practice",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "完成综合任务前，先看到步骤、层级或信息位置的整体安排，我通常更容易组织做法。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "V14",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "V",
+      "subdimension": "relationship_organization",
+      "process": "memory",
+      "scenarioType": "academic",
+      "direction": "reverse",
+      "prompt": "内容之间有先后、包含或因果关系时，把关系摆成清楚层级，对我记忆通常帮助不大。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "V15",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "V",
+      "subdimension": "difference_identification",
+      "process": "improve",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "订正时把自己的做法和参考做法并排比较，我通常更容易找到第一次出现差异的位置。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "V16",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "V",
+      "subdimension": "difference_identification",
+      "process": "practice",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "练习相似任务时，把条件变化和结果变化放在一起看，我通常更容易发现规律。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "A09",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "A",
+      "subdimension": "explanation_comprehension",
+      "process": "learning",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "第一次接触较难内容时，先听一段有顺序的通俗解释，我通常更容易抓住它在讲什么。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "A10",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "A",
+      "subdimension": "explanation_comprehension",
+      "process": "practice",
+      "scenarioType": "life",
+      "direction": "reverse",
+      "prompt": "第一次自己做一件没做过的事前，听别人说明关键步骤，通常不会让我更容易开始。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "A11",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "A",
+      "subdimension": "sound_cues",
+      "process": "memory",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "复习时把关键词按自己的节奏读出来，我通常更容易在之后想起相关内容。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "A12",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "A",
+      "subdimension": "sound_cues",
+      "process": "improve",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "听到老师强调的提示语或判断口令时，我通常更容易回想起自己漏掉的检查点。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "A13",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "A",
+      "subdimension": "language_expression",
+      "process": "practice",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "独立完成任务后，用自己的话解释为什么这样做，我通常更容易发现思路是否完整。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "A14",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "A",
+      "subdimension": "language_expression",
+      "process": "learning",
+      "scenarioType": "academic",
+      "direction": "reverse",
+      "prompt": "学习新内容后，即使把理解说出来，也通常不能帮助我发现哪里还没有弄懂。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "A15",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "A",
+      "subdimension": "question_answer_interaction",
+      "process": "improve",
+      "scenarioType": "life",
+      "direction": "positive",
+      "reviewStatus": "inactive_reserve",
+      "active": false,
+      "prompt": "学会一件生活中的事后，有人顺着关键步骤问我几句，我通常更容易发现漏了什么。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "A16",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "A",
+      "subdimension": "question_answer_interaction",
+      "process": "memory",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "reviewStatus": "inactive_reserve",
+      "active": false,
+      "prompt": "两个人围绕重点轮流提问和回答来澄清理解时，我通常更容易调动已经学过的信息。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "R09",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "R",
+      "subdimension": "text_comprehension",
+      "process": "learning",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "面对一个新概念时，先看到简明的文字解释和使用条件，我通常更容易准确进入理解。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "R10",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "R",
+      "subdimension": "text_comprehension",
+      "process": "improve",
+      "scenarioType": "life",
+      "direction": "reverse",
+      "prompt": "生活中一件事做错后，重新看看书面要求和注意事项，通常不能帮我发现漏了什么。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "R11",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "R",
+      "subdimension": "structure_organization",
+      "process": "memory",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "复习零散内容时，把它们按主题分组并写成短标题，我通常更容易恢复整体。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "R12",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "R",
+      "subdimension": "structure_organization",
+      "process": "practice",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "完成一组练习后，把相同做法归到一起并写下区别，我通常更容易整理方法。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "R13",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "R",
+      "subdimension": "written_expression",
+      "process": "improve",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "订正后把错误原因和正确依据写成完整句子，我通常更容易确认自己是否真的明白。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "R14",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "R",
+      "subdimension": "written_expression",
+      "process": "learning",
+      "scenarioType": "academic",
+      "direction": "reverse",
+      "prompt": "学习新内容后，写下自己的解释或步骤，通常不会帮助我理清理解。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "R15",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "R",
+      "subdimension": "rule_presentation",
+      "process": "practice",
+      "scenarioType": "life",
+      "direction": "positive",
+      "reviewStatus": "inactive_reserve",
+      "active": false,
+      "prompt": "自己完成生活中的一件事时，我先把要求里的关键词和检查点写成清单，通常更少漏步骤。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "R16",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "R",
+      "subdimension": "rule_presentation",
+      "process": "memory",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "reviewStatus": "inactive_reserve",
+      "active": false,
+      "prompt": "记忆条件较多的内容时，我从材料中提取关键词和限制规则单独列出，通常更容易准确调用。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "K09",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "K",
+      "subdimension": "case_entry",
+      "process": "learning",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "第一次理解一条抽象规则时，先看它在一个具体任务中怎样使用，我通常更容易明白。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "K10",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "K",
+      "subdimension": "case_entry",
+      "process": "improve",
+      "scenarioType": "life",
+      "direction": "reverse",
+      "prompt": "生活中一件事做错后，再看一个正确做法的例子，通常不能帮我发现差别。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "K11",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "K",
+      "subdimension": "hands_on_trial",
+      "process": "practice",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "遇到新的任务形式时，先亲自尝试一个小步骤，我通常更快知道接下来该怎样做。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "K12",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "K",
+      "subdimension": "hands_on_trial",
+      "process": "memory",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "prompt": "需要记住一种操作或解题流程时，自己完整做一次，我通常更容易保留步骤。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "K13",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "K",
+      "subdimension": "process_rehearsal",
+      "process": "learning",
+      "scenarioType": "life",
+      "direction": "positive",
+      "prompt": "学做一件需要好几步配合的事时，先跟着做一遍，我通常更快理解整个过程。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "K14",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "K",
+      "subdimension": "process_rehearsal",
+      "process": "practice",
+      "scenarioType": "academic",
+      "direction": "reverse",
+      "prompt": "把新学的方法放进接近真实的模拟任务中练习，通常不会帮助我理解它怎样使用。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "K15",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "K",
+      "subdimension": "contextual_presentation",
+      "process": "memory",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "reviewStatus": "inactive_reserve",
+      "active": false,
+      "prompt": "复习一种方法时，想一个可以实际使用它的情境，我通常更容易记住适用条件。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
+      "id": "K16",
+      "kind": "preference",
+      "form": "reserve",
+      "preference": "K",
+      "subdimension": "contextual_presentation",
+      "process": "improve",
+      "scenarioType": "academic",
+      "direction": "positive",
+      "reviewStatus": "inactive_reserve",
+      "active": false,
+      "prompt": "订正后把正确方法用于条件稍有变化的新任务，我通常更容易确认自己是否真正会用。",
+      "scale": [
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ],
+  "calibration": [
+    {
+      "pair": "V-A",
+      "process": "learning",
+      "prompt": "第一次理解一段新内容时，哪一种情况更接近你通常的真实反应？",
+      "options": [
+        {
+          "preference": "V",
+          "text": "看到配图、颜色标注或关系位置后更快抓住重点。"
+        },
+        {
+          "preference": "A",
+          "text": "听到有人按顺序讲清来龙去脉后更快进入理解。"
+        }
+      ]
+    },
+    {
+      "pair": "V-A",
+      "process": "memory",
+      "prompt": "隔一天回想学过的内容时，哪一种线索更容易先把内容带回来？",
+      "options": [
+        {
+          "preference": "V",
+          "text": "当时看到的颜色、图示或页面位置。"
+        },
+        {
+          "preference": "A",
+          "text": "当时听到的关键词、语气或讲解顺序。"
+        }
+      ]
+    },
+    {
+      "pair": "V-A",
+      "process": "practice",
+      "prompt": "遇到相似但条件有变化的任务时，你通常先借助什么判断差别？",
+      "options": [
+        {
+          "preference": "V",
+          "text": "把条件并排看，找出被标出的变化。"
+        },
+        {
+          "preference": "A",
+          "text": "把判断依据说出来，听自己是否讲得通。"
+        }
+      ]
+    },
+    {
+      "pair": "V-A",
+      "process": "improve",
+      "prompt": "发现自己做错以后，哪一种方式通常更能让你看清错误？",
+      "options": [
+        {
+          "preference": "V",
+          "text": "把错误与正确做法并排标出差异。"
+        },
+        {
+          "preference": "A",
+          "text": "听老师讲清错误是从哪一步开始的。"
+        }
+      ]
+    },
+    {
+      "pair": "V-R",
+      "process": "learning",
+      "prompt": "第一次接触一个新概念时，哪一种材料更容易让你准确进入理解？",
+      "options": [
+        {
+          "preference": "V",
+          "text": "带有图示、颜色标记和位置关系的材料。"
+        },
+        {
+          "preference": "R",
+          "text": "写清定义、条件、例子和文字说明的材料。"
+        }
+      ]
+    },
+    {
+      "pair": "V-R",
+      "process": "memory",
+      "prompt": "需要恢复一组有关联的重点时，你更容易先从哪里想起？",
+      "options": [
+        {
+          "preference": "V",
+          "text": "流程、层级、图表或内容在页面上的位置。"
+        },
+        {
+          "preference": "R",
+          "text": "自己写过的关键词、标题和分点内容。"
+        }
+      ]
+    },
+    {
+      "pair": "V-R",
+      "process": "practice",
+      "prompt": "整理一组相似任务的方法时，哪一种做法更符合你的习惯？",
+      "options": [
+        {
+          "preference": "V",
+          "text": "并排呈现条件与结果，用颜色标出变化。"
+        },
+        {
+          "preference": "R",
+          "text": "把共同规则和不同条件写成清单。"
+        }
+      ]
+    },
+    {
+      "pair": "V-R",
+      "process": "improve",
+      "prompt": "订正完成后，哪一种检查方式更容易帮助你发现遗漏？",
+      "options": [
+        {
+          "preference": "V",
+          "text": "查看错误位置和正确位置的视觉对照。"
+        },
+        {
+          "preference": "R",
+          "text": "逐条核对自己写下的条件、步骤和规则。"
+        }
+      ]
+    },
+    {
+      "pair": "V-K",
+      "process": "learning",
+      "prompt": "面对陌生内容时，哪一种入口通常让你更快知道它在讲什么？",
+      "options": [
+        {
+          "preference": "V",
+          "text": "先看图示、关系和重点标记。"
+        },
+        {
+          "preference": "K",
+          "text": "先看一个具体例子并亲自尝试。"
+        }
+      ]
+    },
+    {
+      "pair": "V-K",
+      "process": "memory",
+      "prompt": "需要记住一个多步骤过程时，哪一种做法更容易留下顺序？",
+      "options": [
+        {
+          "preference": "V",
+          "text": "把步骤排成流程或位置关系。"
+        },
+        {
+          "preference": "K",
+          "text": "在脑中演练或实际按步骤做一遍。"
+        }
+      ]
+    },
+    {
+      "pair": "V-K",
+      "process": "practice",
+      "prompt": "第一次完成一种新任务时，哪一种准备方式更符合你的真实做法？",
+      "options": [
+        {
+          "preference": "V",
+          "text": "先看清整体结构和关键变化。"
+        },
+        {
+          "preference": "K",
+          "text": "先完成一个小步骤，在尝试中调整。"
+        }
+      ]
+    },
+    {
+      "pair": "V-K",
+      "process": "improve",
+      "prompt": "查看反馈以后，哪一种方式更容易帮助你避免再次出错？",
+      "options": [
+        {
+          "preference": "V",
+          "text": "把第一次出错的位置用颜色或对比标出来。"
+        },
+        {
+          "preference": "K",
+          "text": "换一个相近任务，把正确做法再用一次。"
+        }
+      ]
+    },
+    {
+      "pair": "A-R",
+      "process": "learning",
+      "prompt": "遇到较难的新内容时，哪一种帮助通常更有效？",
+      "options": [
+        {
+          "preference": "A",
+          "text": "有人用通俗的话按顺序讲清，并允许你追问。"
+        },
+        {
+          "preference": "R",
+          "text": "看到清楚的文字定义、条件和例子。"
+        }
+      ]
+    },
+    {
+      "pair": "A-R",
+      "process": "memory",
+      "prompt": "复习时，哪一种输出更容易让你发现自己没有记牢？",
+      "options": [
+        {
+          "preference": "A",
+          "text": "不看材料把重点复述出来。"
+        },
+        {
+          "preference": "R",
+          "text": "不看材料把关键词和要点写出来。"
+        }
+      ]
+    },
+    {
+      "pair": "A-R",
+      "process": "practice",
+      "prompt": "完成任务后，哪一种整理方法更符合你的真实习惯？",
+      "options": [
+        {
+          "preference": "A",
+          "text": "把自己的依据讲出来，听是否连贯。"
+        },
+        {
+          "preference": "R",
+          "text": "把步骤、规则或依据写清楚。"
+        }
+      ]
+    },
+    {
+      "pair": "A-R",
+      "process": "improve",
+      "prompt": "老师讲评以后，哪一种动作更容易让你真正弄清错误？",
+      "options": [
+        {
+          "preference": "A",
+          "text": "用自己的话重新解释错误原因。"
+        },
+        {
+          "preference": "R",
+          "text": "把错误原因和正确依据分点写下来。"
+        }
+      ]
+    },
+    {
+      "pair": "A-K",
+      "process": "learning",
+      "prompt": "第一次学习一项陌生内容时，哪一种方式更容易让你进入状态？",
+      "options": [
+        {
+          "preference": "A",
+          "text": "先听清楚别人怎样解释和强调重点。"
+        },
+        {
+          "preference": "K",
+          "text": "先看示范并亲自尝试一个小任务。"
+        }
+      ]
+    },
+    {
+      "pair": "A-K",
+      "process": "memory",
+      "prompt": "需要记住一种用法时，哪一种方式更容易让你以后想起来？",
+      "options": [
+        {
+          "preference": "A",
+          "text": "朗读、复述或用关键词声音建立线索。"
+        },
+        {
+          "preference": "K",
+          "text": "亲自完成或模拟使用一次。"
+        }
+      ]
+    },
+    {
+      "pair": "A-K",
+      "process": "practice",
+      "prompt": "遇到新的任务形式时，哪一种方式更符合你的真实反应？",
+      "options": [
+        {
+          "preference": "A",
+          "text": "先和别人讨论做法或听一遍关键提醒。"
+        },
+        {
+          "preference": "K",
+          "text": "先动手试一小步，再根据结果调整。"
+        }
+      ]
+    },
+    {
+      "pair": "A-K",
+      "process": "improve",
+      "prompt": "连续出现同类错误时，哪一种帮助更容易让你改变原来的做法？",
+      "options": [
+        {
+          "preference": "A",
+          "text": "和老师讨论并说清自己为什么会错。"
+        },
+        {
+          "preference": "K",
+          "text": "在一个相近新任务中重新使用正确方法。"
+        }
+      ]
+    },
+    {
+      "pair": "R-K",
+      "process": "learning",
+      "prompt": "接触新知识时，哪一种材料更容易让你准确开始？",
+      "options": [
+        {
+          "preference": "R",
+          "text": "有清楚文字说明、定义、条件和例子。"
+        },
+        {
+          "preference": "K",
+          "text": "有完整示范，并能马上跟着尝试。"
+        }
+      ]
+    },
+    {
+      "pair": "R-K",
+      "process": "memory",
+      "prompt": "需要记住步骤和规则时，哪一种方式更容易留下清晰线索？",
+      "options": [
+        {
+          "preference": "R",
+          "text": "把关键词、条件和步骤写成清单。"
+        },
+        {
+          "preference": "K",
+          "text": "亲自按顺序做一遍或模拟一遍。"
+        }
+      ]
+    },
+    {
+      "pair": "R-K",
+      "process": "practice",
+      "prompt": "面对没有做过的任务时，哪一种做法更接近你的真实习惯？",
+      "options": [
+        {
+          "preference": "R",
+          "text": "先读清要求，写出规则或操作步骤。"
+        },
+        {
+          "preference": "K",
+          "text": "先做一个小任务，在尝试中理解规则。"
+        }
+      ]
+    },
+    {
+      "pair": "R-K",
+      "process": "improve",
+      "prompt": "订正以后，哪一种方式更容易确认自己已经会了？",
+      "options": [
+        {
+          "preference": "R",
+          "text": "写清错误原因和正确步骤，再逐项检查。"
+        },
+        {
+          "preference": "K",
+          "text": "脱离答案重新做一次，并换相近情境再用。"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7382 @@
+[
+  {
+    "subject": "化学",
+    "module": "化学反应原理",
+    "topic": "化学反应与能量转化",
+    "studentLabel": "化学反应与能量转化",
+    "detail": "反应热、盖斯定律",
+    "memoryCheckpoint": "盖斯定律、热化学方程式、电池",
+    "frequency": 5,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "化学基本概念与化学实验基础知识",
+    "topic": "化学物质及其变化",
+    "studentLabel": "化学物质及其变化",
+    "detail": "物质的组成、性质和转化",
+    "memoryCheckpoint": "物质的俗名、颜色等",
+    "frequency": 5,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "化学基本概念与化学实验基础知识",
+    "topic": "化学计量与简单计算",
+    "studentLabel": "化学计量与简单计算",
+    "detail": "物质的量",
+    "memoryCheckpoint": "四个有关物质的量的公式",
+    "frequency": 5,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "有机化学",
+    "topic": "有机化合物的结构",
+    "studentLabel": "有机化合物的结构",
+    "detail": "有机化合物的分类、命名及研究方法",
+    "memoryCheckpoint": "烃的分类，命名，同系物、同分异构体、",
+    "frequency": 5,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "有机化学",
+    "topic": "烃的衍生物",
+    "studentLabel": "烃的衍生物",
+    "detail": "卤代烃 醇 酚",
+    "memoryCheckpoint": "各个官能团的性质",
+    "frequency": 5,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "物质的结构与性质",
+    "topic": "分子结构与性质",
+    "studentLabel": "分子结构与性质",
+    "detail": "化学键及分类",
+    "memoryCheckpoint": "价层电子对互斥模型计算公式、化学键的",
+    "frequency": 5,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "物质的结构与性质",
+    "topic": "原子结构与性质",
+    "studentLabel": "原子结构与性质",
+    "detail": "原子结构",
+    "memoryCheckpoint": "元素周期律，金属性，非金属性",
+    "frequency": 5,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "化学基本概念与化学实验基础知识",
+    "topic": "化学实验基础知识",
+    "studentLabel": "化学实验基础知识",
+    "detail": "化学实验基础知识与技能",
+    "memoryCheckpoint": "元素的性质，制取，检验，仪器的使用",
+    "frequency": 4,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "元素及其化合物",
+    "topic": "金属及其化合物",
+    "studentLabel": "金属及其化合物",
+    "detail": "金属材料 金属矿物的开发利用",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "元素及其化合物",
+    "topic": "金属及其化合物",
+    "studentLabel": "金属及其化合物",
+    "detail": "钠及其重要化合物",
+    "memoryCheckpoint": "金属元素的性质",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "元素及其化合物",
+    "topic": "金属及其化合物",
+    "studentLabel": "金属及其化合物",
+    "detail": "铁及其重要化合物",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "元素及其化合物",
+    "topic": "非金属及其化合物",
+    "studentLabel": "非金属及其化合物",
+    "detail": "氮及其化合物",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "元素及其化合物",
+    "topic": "非金属及其化合物",
+    "studentLabel": "非金属及其化合物",
+    "detail": "氯及其化合物",
+    "memoryCheckpoint": "非金属元素的性质",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "元素及其化合物",
+    "topic": "非金属及其化合物",
+    "studentLabel": "非金属及其化合物",
+    "detail": "硫及其化合物",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "化学反应原理",
+    "topic": "化学反应与能量转化",
+    "studentLabel": "化学反应与能量转化",
+    "detail": "电化学",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "化学反应原理",
+    "topic": "化学反应速率与平衡",
+    "studentLabel": "化学反应速率与平衡",
+    "detail": "化学反应的方向与调控",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "化学反应原理",
+    "topic": "化学反应速率与平衡",
+    "studentLabel": "化学反应速率与平衡",
+    "detail": "化学反应速率与影响因素",
+    "memoryCheckpoint": "吉布斯自由能，勒夏特列原理，化学反应",
+    "frequency": 0,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "化学反应原理",
+    "topic": "化学反应速率与平衡",
+    "studentLabel": "化学反应速率与平衡",
+    "detail": "化学平衡状态与化学平衡常数",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "化学反应原理",
+    "topic": "水溶液中的离子反应与平衡",
+    "studentLabel": "水溶液中的离子反应与平衡",
+    "detail": "弱电解质的电离平衡",
+    "memoryCheckpoint": "各个常数的计算公式",
+    "frequency": 0,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "化学反应原理",
+    "topic": "水溶液中的离子反应与平衡",
+    "studentLabel": "水溶液中的离子反应与平衡",
+    "detail": "水的电离和溶液的pH",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "化学反应原理",
+    "topic": "水溶液中的离子反应与平衡",
+    "studentLabel": "水溶液中的离子反应与平衡",
+    "detail": "沉淀溶解平衡及应用",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "化学反应原理",
+    "topic": "水溶液中的离子反应与平衡",
+    "studentLabel": "水溶液中的离子反应与平衡",
+    "detail": "溶液中的三大守恒 水解常数及应用",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "化学反应原理",
+    "topic": "水溶液中的离子反应与平衡",
+    "studentLabel": "水溶液中的离子反应与平衡",
+    "detail": "盐类的水解及影响因素",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "化学基本概念与化学实验基础知识",
+    "topic": "化学实验基础知识",
+    "studentLabel": "化学实验基础知识",
+    "detail": "仪器的组合与气体体积的测定",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "化学基本概念与化学实验基础知识",
+    "topic": "化学实验基础知识",
+    "studentLabel": "化学实验基础知识",
+    "detail": "物质的分离与提纯",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "化学基本概念与化学实验基础知识",
+    "topic": "化学物质及其变化",
+    "studentLabel": "化学物质及其变化",
+    "detail": "氧化还原反应方程式的配平与书写",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "化学基本概念与化学实验基础知识",
+    "topic": "化学物质及其变化",
+    "studentLabel": "化学物质及其变化",
+    "detail": "氧化还原反应的概念和规律",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "化学基本概念与化学实验基础知识",
+    "topic": "化学物质及其变化",
+    "studentLabel": "化学物质及其变化",
+    "detail": "离子反应 离子方程式",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "化学基本概念与化学实验基础知识",
+    "topic": "化学计量与简单计算",
+    "studentLabel": "化学计量与简单计算",
+    "detail": "阿伏加德罗常数(NA)应用判断",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "有机化学",
+    "topic": "有机化合物的结构",
+    "studentLabel": "有机化合物的结构",
+    "detail": "有机化合物的空间结构 同系物 同分异",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "有机化学",
+    "topic": "有机化合物的结构",
+    "studentLabel": "有机化合物的结构",
+    "detail": "烃 化石燃料",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "有机化学",
+    "topic": "有机化合物综合应用",
+    "studentLabel": "有机化合物综合应用",
+    "detail": "有机合成与有机合成路线的设计",
+    "memoryCheckpoint": "常见官能团的性质及其转化",
+    "frequency": 0,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "有机化学",
+    "topic": "烃的衍生物",
+    "studentLabel": "烃的衍生物",
+    "detail": "生物大分子 合成高分子",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "有机化学",
+    "topic": "烃的衍生物",
+    "studentLabel": "烃的衍生物",
+    "detail": "醛 酮 羧酸及其衍生物",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "物质的结构与性质",
+    "topic": "分子结构与性质",
+    "studentLabel": "分子结构与性质",
+    "detail": "价层电子对互斥模型，杂化",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "物质的结构与性质",
+    "topic": "分子结构与性质",
+    "studentLabel": "分子结构与性质",
+    "detail": "分子性质、配合物与超分子",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "物质的结构与性质",
+    "topic": "原子结构与性质",
+    "studentLabel": "原子结构与性质",
+    "detail": "元素周期表",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "化学",
+    "module": "物质的结构与性质",
+    "topic": "晶体结构与性质",
+    "studentLabel": "晶体结构与性质",
+    "detail": "晶体类型及其结构",
+    "memoryCheckpoint": "晶体的分类方法",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届化学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "中国近代史",
+    "topic": "旧民主主义革命时期（1840—1919）",
+    "studentLabel": "旧民主主义革命时期（1840—1919）",
+    "detail": "两次鸦片战争",
+    "memoryCheckpoint": "第十八关：两次鸦片战争",
+    "frequency": 13,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "中国古代史",
+    "topic": "中华文明的起源与早期国家 （远古—前",
+    "studentLabel": "中华文明的起源与早期国家 （远古—前",
+    "detail": "原始社会",
+    "memoryCheckpoint": "第一关：石器时代的成就和表现",
+    "frequency": 12,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "中国古代史",
+    "topic": "明清（前期）时期——中华文明的鼎盛与",
+    "studentLabel": "明清（前期）时期——中华文明的鼎盛与",
+    "detail": "明朝的国家制度与社会治理",
+    "memoryCheckpoint": "第十五关：明朝政治制度及对外交往",
+    "frequency": 12,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "中国近代史",
+    "topic": "新民主主义革命时期 （1919——1",
+    "studentLabel": "新民主主义革命时期 （1919——1",
+    "detail": "五四运动与中国共产党的诞生",
+    "memoryCheckpoint": "第二十三关：五四运动、中国共产党成立",
+    "frequency": 12,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "世界近现代史",
+    "topic": "二战以来的经济与文化",
+    "studentLabel": "二战以来的经济与文化",
+    "detail": "二战以来的经济与文化",
+    "memoryCheckpoint": "/",
+    "frequency": 10,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "中国现代史",
+    "topic": "社会主义建设新时期——改革开放 （1",
+    "studentLabel": "社会主义建设新时期——改革开放 （1",
+    "detail": "社会主义建设新时期——改革开放（19",
+    "memoryCheckpoint": "第二十八关：新中国外交政策",
+    "frequency": 10,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "世界古代史",
+    "topic": "上古时期（5世纪以前）—— 古代文明",
+    "studentLabel": "上古时期（5世纪以前）—— 古代文明",
+    "detail": "文明的产生及早期发展",
+    "memoryCheckpoint": "第二十九关：苏美尔、古巴比伦文明；古",
+    "frequency": 9,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "世界近现代史",
+    "topic": "走向整体的世界",
+    "studentLabel": "走向整体的世界",
+    "detail": "全球航路的开辟",
+    "memoryCheckpoint": "/",
+    "frequency": 9,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "中国古代史",
+    "topic": "辽宋夏金元时期——中华文明的成熟与高",
+    "studentLabel": "辽宋夏金元时期——中华文明的成熟与高",
+    "detail": "辽宋夏金元的国家制度与社会治理",
+    "memoryCheckpoint": "第十二关：宋元政治制度 第十三关：宋",
+    "frequency": 9,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "中国古代史",
+    "topic": "三国两晋南北朝——中华文明的曲折发展",
+    "studentLabel": "三国两晋南北朝——中华文明的曲折发展",
+    "detail": "三国两晋南北朝时期的国家制度与社会治",
+    "memoryCheckpoint": "第九关：九品中正制、北魏孝文帝改革、",
+    "frequency": 7,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "中国古代史",
+    "topic": "两汉——统一多民族封建国家的巩固 （",
+    "studentLabel": "两汉——统一多民族封建国家的巩固 （",
+    "detail": "两汉的国家制度与社会治理",
+    "memoryCheckpoint": "第六关：两汉政治制度 第七关：两汉民",
+    "frequency": 7,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "中国古代史",
+    "topic": "诸侯纷争与变法运动 （前770—前2",
+    "studentLabel": "诸侯纷争与变法运动 （前770—前2",
+    "detail": "春秋战国时期的国家制度与社会治理",
+    "memoryCheckpoint": "第三关：商鞅变法",
+    "frequency": 7,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "世界古代史",
+    "topic": "中古时期（5—15世纪）—— 世界各",
+    "studentLabel": "中古时期（5—15世纪）—— 世界各",
+    "detail": "中古时期的欧洲",
+    "memoryCheckpoint": "/",
+    "frequency": 6,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "世界近现代史",
+    "topic": "近代世界的政治、经济和文化 （15世",
+    "studentLabel": "近代世界的政治、经济和文化 （15世",
+    "detail": "近代世界的政治、经济和文化 （15世",
+    "memoryCheckpoint": "第三十五关：国际法及国际关系体系",
+    "frequency": 6,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "中国古代史",
+    "topic": "隋唐时期——中华文明的繁荣 （581",
+    "studentLabel": "隋唐时期——中华文明的繁荣 （581",
+    "detail": "隋唐的国家制度与社会治理",
+    "memoryCheckpoint": "第十关：隋唐政治制度 第十一关：隋唐",
+    "frequency": 6,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "世界近现代史",
+    "topic": "两次世界大战、十月革命与国际秩序的演",
+    "studentLabel": "两次世界大战、十月革命与国际秩序的演",
+    "detail": "第一次世界大战与战后国际秩序",
+    "memoryCheckpoint": "/",
+    "frequency": 5,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "史学素养",
+    "topic": "史学素养",
+    "studentLabel": "史学素养",
+    "detail": "史学素养",
+    "memoryCheckpoint": "/",
+    "frequency": 5,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "世界近现代史",
+    "topic": "20世纪下半叶世界的新变化 （194",
+    "studentLabel": "20世纪下半叶世界的新变化 （194",
+    "detail": "冷战（1947—1991）与国际格局",
+    "memoryCheckpoint": "/",
+    "frequency": 4,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "世界近现代史",
+    "topic": "欧洲思想解放运动及资本主义制度的确立",
+    "studentLabel": "欧洲思想解放运动及资本主义制度的确立",
+    "detail": "欧洲的思想解放运动",
+    "memoryCheckpoint": "第三十三关：文艺复兴、宗教改革、启蒙",
+    "frequency": 4,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "中国古代史",
+    "topic": "秦统一多民族封建国家的建立 （前22",
+    "studentLabel": "秦统一多民族封建国家的建立 （前22",
+    "detail": "秦统一多民族封建国家的建立",
+    "memoryCheckpoint": "第五关：秦朝政治制度和民族关系",
+    "frequency": 4,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "中国现代史",
+    "topic": "新中国的成立与社会主义建设时期 （1",
+    "studentLabel": "新中国的成立与社会主义建设时期 （1",
+    "detail": "从新民主主义到社会主义【过渡时期】（",
+    "memoryCheckpoint": "第二十七关：人民政权巩固的措施及意义",
+    "frequency": 4,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "世界近现代史",
+    "topic": "工业革命与马克思主义的诞生",
+    "studentLabel": "工业革命与马克思主义的诞生",
+    "detail": "两次工业革命",
+    "memoryCheckpoint": "第三十四关：两次工业革命的对比表格",
+    "frequency": 3,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "世界古代史",
+    "topic": "上古时期（5世纪以前）—— 古代文明",
+    "studentLabel": "上古时期（5世纪以前）—— 古代文明",
+    "detail": "上古时期的世界帝国与文明交流",
+    "memoryCheckpoint": "第三十关：希腊化时代及罗马帝国成就",
+    "frequency": 0,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "世界古代史",
+    "topic": "中古时期（5—15世纪）—— 世界各",
+    "studentLabel": "中古时期（5—15世纪）—— 世界各",
+    "detail": "中古时期的亚洲",
+    "memoryCheckpoint": "/",
+    "frequency": 0,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "世界古代史",
+    "topic": "中古时期（5—15世纪）—— 世界各",
+    "studentLabel": "中古时期（5—15世纪）—— 世界各",
+    "detail": "中古时期的非洲、美洲、大洋洲",
+    "memoryCheckpoint": "第三十一关：西欧文化成就、《罗马民法",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "世界近现代史",
+    "topic": "20世纪下半叶世界的新变化 （194",
+    "studentLabel": "20世纪下半叶世界的新变化 （194",
+    "detail": "当今世界发展的特点与主要趋势",
+    "memoryCheckpoint": "/",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "世界近现代史",
+    "topic": "20世纪下半叶世界的新变化 （194",
+    "studentLabel": "20世纪下半叶世界的新变化 （194",
+    "detail": "资本主义国家和社会主义国家的发展变化",
+    "memoryCheckpoint": "第三十七关：二战以来资本主义国家政策",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "世界近现代史",
+    "topic": "两次世界大战、十月革命与国际秩序的演",
+    "studentLabel": "两次世界大战、十月革命与国际秩序的演",
+    "detail": "俄国十月革命的胜利与苏联的社会主义实",
+    "memoryCheckpoint": "第三十六关：苏联五代领导人经济政策",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "世界近现代史",
+    "topic": "两次世界大战、十月革命与国际秩序的演",
+    "studentLabel": "两次世界大战、十月革命与国际秩序的演",
+    "detail": "第二次世界大战（1939—1945）",
+    "memoryCheckpoint": "/",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "世界近现代史",
+    "topic": "工业革命与马克思主义的诞生",
+    "studentLabel": "工业革命与马克思主义的诞生",
+    "detail": "工人运动和社会主义思潮的兴起",
+    "memoryCheckpoint": "/",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "世界近现代史",
+    "topic": "欧洲思想解放运动及资本主义制度的确立",
+    "studentLabel": "欧洲思想解放运动及资本主义制度的确立",
+    "detail": "资产阶级革命与资本主义的扩展",
+    "memoryCheckpoint": "第三十四关：拿破仑战争对外影响",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "世界近现代史",
+    "topic": "走向整体的世界",
+    "studentLabel": "走向整体的世界",
+    "detail": "全球联系的初步建立与世界格局的演变",
+    "memoryCheckpoint": "第三十二关：大西洋贸易概况、影响； ",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "中国古代史",
+    "topic": "三国两晋南北朝——中华文明的曲折发展",
+    "studentLabel": "三国两晋南北朝——中华文明的曲折发展",
+    "detail": "三国两晋南北朝时期的经济与思想",
+    "memoryCheckpoint": "/",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "中国古代史",
+    "topic": "两汉——统一多民族封建国家的巩固 （",
+    "studentLabel": "两汉——统一多民族封建国家的巩固 （",
+    "detail": "两汉的经济与思想",
+    "memoryCheckpoint": "第八关：汉武帝巩固大一统在经济、思想",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "中国古代史",
+    "topic": "中华文明的起源与早期国家 （远古—前",
+    "studentLabel": "中华文明的起源与早期国家 （远古—前",
+    "detail": "夏、商、西周",
+    "memoryCheckpoint": "第二关：夏、商、西周制度和成就",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "中国古代史",
+    "topic": "明清（前期）时期——中华文明的鼎盛与",
+    "studentLabel": "明清（前期）时期——中华文明的鼎盛与",
+    "detail": "明清的经济与思想",
+    "memoryCheckpoint": "第十七关：白银货币化及明清进步思想",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "中国古代史",
+    "topic": "明清（前期）时期——中华文明的鼎盛与",
+    "studentLabel": "明清（前期）时期——中华文明的鼎盛与",
+    "detail": "清朝前中期的国家制度与社会治理",
+    "memoryCheckpoint": "第十六关：清朝政治制度及对外交往",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "中国古代史",
+    "topic": "诸侯纷争与变法运动 （前770—前2",
+    "studentLabel": "诸侯纷争与变法运动 （前770—前2",
+    "detail": "春秋战国时期的经济与思想",
+    "memoryCheckpoint": "第四关：百家争鸣和中华优秀传统文化",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "中国古代史",
+    "topic": "辽宋夏金元时期——中华文明的成熟与高",
+    "studentLabel": "辽宋夏金元时期——中华文明的成熟与高",
+    "detail": "宋元时期的经济与思想",
+    "memoryCheckpoint": "第十四关：经济重心南移南移进程及理学",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "中国古代史",
+    "topic": "隋唐时期——中华文明的繁荣 （581",
+    "studentLabel": "隋唐时期——中华文明的繁荣 （581",
+    "detail": "隋唐的经济与思想",
+    "memoryCheckpoint": "/",
+    "frequency": 0,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "中国现代史",
+    "topic": "新中国的成立与社会主义建设时期 （1",
+    "studentLabel": "新中国的成立与社会主义建设时期 （1",
+    "detail": "社会主义建设时期（1956—1978",
+    "memoryCheckpoint": "/",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "中国近代史",
+    "topic": "新民主主义革命时期 （1919——1",
+    "studentLabel": "新民主主义革命时期 （1919——1",
+    "detail": "人民解放战争",
+    "memoryCheckpoint": "第二十六关：解放战争中重大战争及意义",
+    "frequency": 0,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "中国近代史",
+    "topic": "新民主主义革命时期 （1919——1",
+    "studentLabel": "新民主主义革命时期 （1919——1",
+    "detail": "南京国民政府的统治与中国共产党开辟革",
+    "memoryCheckpoint": "第二十四关：八七会议时间、内容和遵义",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "中国近代史",
+    "topic": "新民主主义革命时期 （1919——1",
+    "studentLabel": "新民主主义革命时期 （1919——1",
+    "detail": "抗日战争",
+    "memoryCheckpoint": "第二十五关：抗日民族统一战线的建立过",
+    "frequency": 0,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "中国近代史",
+    "topic": "旧民主主义革命时期（1840—1919）",
+    "studentLabel": "旧民主主义革命时期（1840—1919）",
+    "detail": "北洋军阀统治时期的政治经济与文化",
+    "memoryCheckpoint": "第二十二关：新文化运动",
+    "frequency": 0,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "中国近代史",
+    "topic": "旧民主主义革命时期（1840—1919）",
+    "studentLabel": "旧民主主义革命时期（1840—1919）",
+    "detail": "国家出路探索与列强侵略加剧",
+    "memoryCheckpoint": "第十九关：太平天国运动、洋务运动 第",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "中国近代史",
+    "topic": "旧民主主义革命时期（1840—1919）",
+    "studentLabel": "旧民主主义革命时期（1840—1919）",
+    "detail": "挽救民族危亡的斗争",
+    "memoryCheckpoint": "第二十一关：维新运动、义和团及八国联",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "历史",
+    "module": "中国近代史",
+    "topic": "旧民主主义革命时期（1840—1919）",
+    "studentLabel": "旧民主主义革命时期（1840—1919）",
+    "detail": "辛亥革命",
+    "memoryCheckpoint": "第二十二关：辛亥革命",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届历史知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块二大气与气候",
+    "topic": "大气",
+    "studentLabel": "大气",
+    "detail": "大气分层",
+    "memoryCheckpoint": "第四关：大气分层与逆温",
+    "frequency": 26,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块八产业区位因素",
+    "topic": "产业区位因素",
+    "studentLabel": "产业区位因素",
+    "detail": "农业区位因素与农业布局",
+    "memoryCheckpoint": "第十六关：农业专题",
+    "frequency": 26,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块四自然地理整体性与差异性",
+    "topic": "自然地理整体性",
+    "studentLabel": "自然地理整体性",
+    "detail": "自然地理整体性",
+    "memoryCheckpoint": "第十二关：土壤与植被",
+    "frequency": 20,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块一内外力作用与地貌",
+    "topic": "岩石圈物质循环",
+    "studentLabel": "岩石圈物质循环",
+    "detail": "岩石分类",
+    "memoryCheckpoint": "第一关：岩石圈",
+    "frequency": 15,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块三水循环",
+    "topic": "水循环",
+    "studentLabel": "水循环",
+    "detail": "水循环环节",
+    "memoryCheckpoint": "第十关：陆地水体与河流",
+    "frequency": 12,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块七城镇化",
+    "topic": "城镇化",
+    "studentLabel": "城镇化",
+    "detail": "城乡差异",
+    "memoryCheckpoint": "",
+    "frequency": 11,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块九交通运输业",
+    "topic": "交通运输业",
+    "studentLabel": "交通运输业",
+    "detail": "交通运输类型差异分析",
+    "memoryCheckpoint": "第十八关：交通运输专题",
+    "frequency": 11,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块十二地球运动",
+    "topic": "自转、公转、月相运动",
+    "studentLabel": "自转、公转、月相运动",
+    "detail": "自转的基本规律",
+    "memoryCheckpoint": "",
+    "frequency": 10,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块五自然灾害与地理信息技术",
+    "topic": "自然灾害",
+    "studentLabel": "自然灾害",
+    "detail": "气象灾害",
+    "memoryCheckpoint": "第十四关：自然灾害与地理信息技术",
+    "frequency": 6,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块十能源资源开发",
+    "topic": "能源产业",
+    "studentLabel": "能源产业",
+    "detail": "能源的类型与分布",
+    "memoryCheckpoint": "第十九关：能源资源专题",
+    "frequency": 6,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块六人口",
+    "topic": "人口",
+    "studentLabel": "人口",
+    "detail": "人口分布及影响要素",
+    "memoryCheckpoint": "第十五关：人口与城镇化",
+    "frequency": 4,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块十一区域发展",
+    "topic": "我国的区域协调发展战略",
+    "studentLabel": "我国的区域协调发展战略",
+    "detail": "我国四大地区的发展",
+    "memoryCheckpoint": "第二十关：我国的区域发展专题",
+    "frequency": 3,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块一内外力作用与地貌",
+    "topic": "内力作用与地貌",
+    "studentLabel": "内力作用与地貌",
+    "detail": "内力作用基本类型",
+    "memoryCheckpoint": "第二关：内力作用",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块一内外力作用与地貌",
+    "topic": "内力作用与地貌",
+    "studentLabel": "内力作用与地貌",
+    "detail": "地质构造",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块一内外力作用与地貌",
+    "topic": "内力作用与地貌",
+    "studentLabel": "内力作用与地貌",
+    "detail": "板块运动",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块一内外力作用与地貌",
+    "topic": "外力作用与地貌",
+    "studentLabel": "外力作用与地貌",
+    "detail": "外力作用与地貌",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块一内外力作用与地貌",
+    "topic": "外力作用与地貌",
+    "studentLabel": "外力作用与地貌",
+    "detail": "外力作用基本类型",
+    "memoryCheckpoint": "第三关：外力作用与外力地貌",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块一内外力作用与地貌",
+    "topic": "岩石圈物质循环",
+    "studentLabel": "岩石圈物质循环",
+    "detail": "岩石圈物质循环",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块七城镇化",
+    "topic": "城镇化",
+    "studentLabel": "城镇化",
+    "detail": "城镇化",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块三水循环",
+    "topic": "海洋水体",
+    "studentLabel": "海洋水体",
+    "detail": "海-气作用",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块三水循环",
+    "topic": "海洋水体",
+    "studentLabel": "海洋水体",
+    "detail": "海水运动",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块三水循环",
+    "topic": "海洋水体",
+    "studentLabel": "海洋水体",
+    "detail": "海洋性质",
+    "memoryCheckpoint": "第十一关：海水性质与运动",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块三水循环",
+    "topic": "陆地水体",
+    "studentLabel": "陆地水体",
+    "detail": "河流水文水系特征",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块三水循环",
+    "topic": "陆地水体",
+    "studentLabel": "陆地水体",
+    "detail": "陆地水体补给方式",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块九交通运输业",
+    "topic": "交通运输业",
+    "studentLabel": "交通运输业",
+    "detail": "交通运输产业的发展思路",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块二大气与气候",
+    "topic": "全球气候类型",
+    "studentLabel": "全球气候类型",
+    "detail": "常见气候类型与分布",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块二大气与气候",
+    "topic": "全球气候类型",
+    "studentLabel": "全球气候类型",
+    "detail": "气候的基本构成要素与影响因素",
+    "memoryCheckpoint": "第八关：全球气候",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块二大气与气候",
+    "topic": "大气",
+    "studentLabel": "大气",
+    "detail": "大气的受热过程",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块二大气与气候",
+    "topic": "大气",
+    "studentLabel": "大气",
+    "detail": "逆温现象",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块二大气与气候",
+    "topic": "天气系统",
+    "studentLabel": "天气系统",
+    "detail": "影响我国的天气系统",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块二大气与气候",
+    "topic": "天气系统",
+    "studentLabel": "天气系统",
+    "detail": "气旋系统、反气旋系统",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块二大气与气候",
+    "topic": "天气系统",
+    "studentLabel": "天气系统",
+    "detail": "锋面气旋读图的判读",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块二大气与气候",
+    "topic": "天气系统",
+    "studentLabel": "天气系统",
+    "detail": "锋面系统",
+    "memoryCheckpoint": "第九关：天气系统的概念",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块二大气与气候",
+    "topic": "季风环流",
+    "studentLabel": "季风环流",
+    "detail": "季风气候",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块二大气与气候",
+    "topic": "季风环流",
+    "studentLabel": "季风环流",
+    "detail": "季风环流",
+    "memoryCheckpoint": "第七关：季风气候",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块二大气与气候",
+    "topic": "气压带风带",
+    "studentLabel": "气压带风带",
+    "detail": "气压带、风带的季节移动",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块二大气与气候",
+    "topic": "气压带风带",
+    "studentLabel": "气压带风带",
+    "detail": "气压带、风带的形成",
+    "memoryCheckpoint": "第六关：气压带风带与季节移动",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块二大气与气候",
+    "topic": "热力环流",
+    "studentLabel": "热力环流",
+    "detail": "大气热力环流",
+    "memoryCheckpoint": "第五关：热力环流与运用",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块二大气与气候",
+    "topic": "热力环流",
+    "studentLabel": "热力环流",
+    "detail": "风的形成",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块五自然灾害与地理信息技术",
+    "topic": "地理信息技术",
+    "studentLabel": "地理信息技术",
+    "detail": "3S技术与运用",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块五自然灾害与地理信息技术",
+    "topic": "自然灾害",
+    "studentLabel": "自然灾害",
+    "detail": "地质灾害",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块五自然灾害与地理信息技术",
+    "topic": "自然灾害",
+    "studentLabel": "自然灾害",
+    "detail": "海洋灾害",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块八产业区位因素",
+    "topic": "产业区位因素",
+    "studentLabel": "产业区位因素",
+    "detail": "工业区位因素与工业布局",
+    "memoryCheckpoint": "第十七关：工业与服务业",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块八产业区位因素",
+    "topic": "产业区位因素",
+    "studentLabel": "产业区位因素",
+    "detail": "服务业的区位选择",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块六人口",
+    "topic": "人口",
+    "studentLabel": "人口",
+    "detail": "人口合理容量、人口环境容量",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块六人口",
+    "topic": "人口",
+    "studentLabel": "人口",
+    "detail": "人口迁移",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块十一区域发展",
+    "topic": "我国的区域协调发展战略",
+    "studentLabel": "我国的区域协调发展战略",
+    "detail": "京津冀协同发展战略",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块十一区域发展",
+    "topic": "我国的区域协调发展战略",
+    "studentLabel": "我国的区域协调发展战略",
+    "detail": "长江经济带发展战略",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块十二地球运动",
+    "topic": "自转、公转、月相运动",
+    "studentLabel": "自转、公转、月相运动",
+    "detail": "公转的基本规律与公转的意义",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块十二地球运动",
+    "topic": "自转、公转、月相运动",
+    "studentLabel": "自转、公转、月相运动",
+    "detail": "月相专题",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块十二地球运动",
+    "topic": "自转、公转、月相运动",
+    "studentLabel": "自转、公转、月相运动",
+    "detail": "自转的地理意义",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块十能源资源开发",
+    "topic": "能源产业",
+    "studentLabel": "能源产业",
+    "detail": "能源资源的开发与国家安全",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块十能源资源开发",
+    "topic": "资源产业",
+    "studentLabel": "资源产业",
+    "detail": "矿产资源开发与国家安全",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块十能源资源开发",
+    "topic": "资源产业",
+    "studentLabel": "资源产业",
+    "detail": "碳汇与碳排专题",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块四自然地理整体性与差异性",
+    "topic": "自然地理差异性",
+    "studentLabel": "自然地理差异性",
+    "detail": "地方性分异规律",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块四自然地理整体性与差异性",
+    "topic": "自然地理差异性",
+    "studentLabel": "自然地理差异性",
+    "detail": "垂直地域分异",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块四自然地理整体性与差异性",
+    "topic": "自然地理差异性",
+    "studentLabel": "自然地理差异性",
+    "detail": "水平地域分异",
+    "memoryCheckpoint": "第十三关：自然地理差异性",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块四自然地理整体性与差异性",
+    "topic": "自然地理整体性",
+    "studentLabel": "自然地理整体性",
+    "detail": "土壤",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "地理",
+    "module": "模块四自然地理整体性与差异性",
+    "topic": "自然地理整体性",
+    "studentLabel": "自然地理整体性",
+    "detail": "植被",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届地理知识图谱+记背图谱(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "哲学与文化",
+    "topic": "探索世界与把握规律",
+    "studentLabel": "探索世界与把握规律",
+    "detail": "把握世界的规律",
+    "memoryCheckpoint": "必背第二十三关：唯物辩证法联系观原理",
+    "frequency": 13,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "经济与社会",
+    "topic": "经济发展和社会进步",
+    "studentLabel": "经济发展和社会进步",
+    "detail": "我国的经济发展",
+    "memoryCheckpoint": "必背第八关：高质量发展与现代化经济建",
+    "frequency": 12,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "政治与法治",
+    "topic": "党的领导",
+    "studentLabel": "党的领导",
+    "detail": "坚持和加强党的全面领导",
+    "memoryCheckpoint": "必背第十关：全面从严治党的要求",
+    "frequency": 11,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "中国特色社会主义",
+    "topic": "中国特色社会主义的开创和发展",
+    "studentLabel": "中国特色社会主义的开创和发展",
+    "detail": "只有坚持和发展中国特色社会主义才能实",
+    "memoryCheckpoint": "必背第二关： 如何全面认识实现中华民",
+    "frequency": 10,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "哲学与文化",
+    "topic": "探索世界与把握规律",
+    "studentLabel": "探索世界与把握规律",
+    "detail": "探究世界的本质",
+    "memoryCheckpoint": "必背第二十一关：如何正确发挥主观能动",
+    "frequency": 10,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "政治与法治",
+    "topic": "人民当家作主",
+    "studentLabel": "人民当家作主",
+    "detail": "我国的基本政治制度",
+    "memoryCheckpoint": "",
+    "frequency": 10,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "政治与法治",
+    "topic": "党的领导",
+    "studentLabel": "党的领导",
+    "detail": "中国共产党的先进性",
+    "memoryCheckpoint": "必背第九关： 中国共产党的基本知识",
+    "frequency": 10,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "政治与法治",
+    "topic": "全面依法治国",
+    "studentLabel": "全面依法治国",
+    "detail": "法治中国建设",
+    "memoryCheckpoint": "必背第十四关：全面理解法治国家 必背",
+    "frequency": 10,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "哲学与文化",
+    "topic": "认识世界与价值选择",
+    "studentLabel": "认识世界与价值选择",
+    "detail": "寻觅社会的真谛",
+    "memoryCheckpoint": "必背第二十八关：社会存在与社会意识 ",
+    "frequency": 9,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "经济与社会",
+    "topic": "生产资料所有制与经济体制",
+    "studentLabel": "生产资料所有制与经济体制",
+    "detail": "我国的社会主义市场经济体制",
+    "memoryCheckpoint": "必背第六关：全面认识社会主义市场经济",
+    "frequency": 9,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "中国特色社会主义",
+    "topic": "中国特色社会主义的开创和发展",
+    "studentLabel": "中国特色社会主义的开创和发展",
+    "detail": "只有中国特色社会主义才能发展中国",
+    "memoryCheckpoint": "",
+    "frequency": 8,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "中国特色社会主义",
+    "topic": "中国特色社会主义的开创和发展",
+    "studentLabel": "中国特色社会主义的开创和发展",
+    "detail": "只有社会主义才能救中国",
+    "memoryCheckpoint": "",
+    "frequency": 8,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "法律与生活",
+    "topic": "社会争议解决",
+    "studentLabel": "社会争议解决",
+    "detail": "诉讼实现公平正义",
+    "memoryCheckpoint": "",
+    "frequency": 8,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "经济与社会",
+    "topic": "生产资料所有制与经济体制",
+    "studentLabel": "生产资料所有制与经济体制",
+    "detail": "我国的生产资料所有制",
+    "memoryCheckpoint": "必背第四关：公有制经济地位与作用 必",
+    "frequency": 8,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "哲学与文化",
+    "topic": "文化传承与文化创新",
+    "studentLabel": "文化传承与文化创新",
+    "detail": "继承发展中华优秀传统文化",
+    "memoryCheckpoint": "",
+    "frequency": 7,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "政治与法治",
+    "topic": "人民当家作主",
+    "studentLabel": "人民当家作主",
+    "detail": "我国的根本政治制度",
+    "memoryCheckpoint": "必背第十一关：全面理解人民代表与人民",
+    "frequency": 7,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "政治与法治",
+    "topic": "全面依法治国",
+    "studentLabel": "全面依法治国",
+    "detail": "全面推进依法治国的基本要求",
+    "memoryCheckpoint": "必背第十七关：科学立法要求 必背第十",
+    "frequency": 7,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "中国特色社会主义",
+    "topic": "人类社会发展进程与趋势",
+    "studentLabel": "人类社会发展进程与趋势",
+    "detail": "社会主义从空想到科学、理论到实践的发",
+    "memoryCheckpoint": "必背第一关：人类社会形态更替规律",
+    "frequency": 6,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "哲学与文化",
+    "topic": "文化传承与文化创新",
+    "studentLabel": "文化传承与文化创新",
+    "detail": "发展中国特色社会主义文化",
+    "memoryCheckpoint": "必背第三十四关：文化发展的基本路径",
+    "frequency": 6,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "当代国际政治与经济",
+    "topic": "经济全球化",
+    "studentLabel": "经济全球化",
+    "detail": "走进经济全球化",
+    "memoryCheckpoint": "",
+    "frequency": 5,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "政治与法治",
+    "topic": "人民当家作主",
+    "studentLabel": "人民当家作主",
+    "detail": "人民民主专政的社会主义国家",
+    "memoryCheckpoint": "",
+    "frequency": 5,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "法律与生活",
+    "topic": "家庭与婚姻",
+    "studentLabel": "家庭与婚姻",
+    "detail": "珍惜婚姻关系",
+    "memoryCheckpoint": "",
+    "frequency": 5,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "法律与生活",
+    "topic": "民事权利与民事义务",
+    "studentLabel": "民事权利与民事义务",
+    "detail": "侵权责任与权利界限",
+    "memoryCheckpoint": "必背第四十一关：侵权要件和归责原则",
+    "frequency": 5,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "法律与生活",
+    "topic": "民事权利与民事义务",
+    "studentLabel": "民事权利与民事义务",
+    "detail": "订约履约 诚信为本",
+    "memoryCheckpoint": "必背第四十关：要约与承诺；合同要件",
+    "frequency": 5,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "经济与社会",
+    "topic": "经济发展和社会进步",
+    "studentLabel": "经济发展和社会进步",
+    "detail": "我国的个人收入分配与社会保障",
+    "memoryCheckpoint": "",
+    "frequency": 5,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "哲学与文化",
+    "topic": "认识世界与价值选择",
+    "studentLabel": "认识世界与价值选择",
+    "detail": "探索认识的奥秘",
+    "memoryCheckpoint": "必背第二十六关：实践与认识的知识 必",
+    "frequency": 4,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "当代国际政治与经济",
+    "topic": "各具特色的国家",
+    "studentLabel": "各具特色的国家",
+    "detail": "我国的国体与政体",
+    "memoryCheckpoint": "",
+    "frequency": 4,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "当代国际政治与经济",
+    "topic": "政治多极化",
+    "studentLabel": "政治多极化",
+    "detail": "和平与发展",
+    "memoryCheckpoint": "",
+    "frequency": 4,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "当代国际政治与经济",
+    "topic": "政治多极化",
+    "studentLabel": "政治多极化",
+    "detail": "多极化趋势",
+    "memoryCheckpoint": "必背第三十五关：国家利益与国际关系",
+    "frequency": 4,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "法律与生活",
+    "topic": "就业与创业",
+    "studentLabel": "就业与创业",
+    "detail": "做个明白的劳动者",
+    "memoryCheckpoint": "",
+    "frequency": 4,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "法律与生活",
+    "topic": "民事权利与民事义务",
+    "studentLabel": "民事权利与民事义务",
+    "detail": "依法有效保护财产权",
+    "memoryCheckpoint": "",
+    "frequency": 4,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "法律与生活",
+    "topic": "民事权利与民事义务",
+    "studentLabel": "民事权利与民事义务",
+    "detail": "在生活中学民法用民法",
+    "memoryCheckpoint": "必背第三十九关：人格权的具体内容",
+    "frequency": 4,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "法律与生活",
+    "topic": "社会争议解决",
+    "studentLabel": "社会争议解决",
+    "detail": "纠纷的多元解决方式",
+    "memoryCheckpoint": "",
+    "frequency": 4,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "逻辑与思维",
+    "topic": "树立科学思维观念",
+    "studentLabel": "树立科学思维观念",
+    "detail": "把握逻辑要义",
+    "memoryCheckpoint": "",
+    "frequency": 4,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "逻辑与思维",
+    "topic": "运用辩证思维方法",
+    "studentLabel": "运用辩证思维方法",
+    "detail": "把握辩证分合",
+    "memoryCheckpoint": "必背第四十三关：分析与综合的辩证关系",
+    "frequency": 4,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "逻辑与思维",
+    "topic": "遵循逻辑思维规则",
+    "studentLabel": "遵循逻辑思维规则",
+    "detail": "学会归纳与类比推理",
+    "memoryCheckpoint": "",
+    "frequency": 4,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "逻辑与思维",
+    "topic": "遵循逻辑思维规则",
+    "studentLabel": "遵循逻辑思维规则",
+    "detail": "掌握演绎推理方法",
+    "memoryCheckpoint": "",
+    "frequency": 4,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "逻辑与思维",
+    "topic": "遵循逻辑思维规则",
+    "studentLabel": "遵循逻辑思维规则",
+    "detail": "正确运用判断",
+    "memoryCheckpoint": "",
+    "frequency": 4,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "哲学与文化",
+    "topic": "探索世界与把握规律",
+    "studentLabel": "探索世界与把握规律",
+    "detail": "时代精神的精华",
+    "memoryCheckpoint": "",
+    "frequency": 3,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "哲学与文化",
+    "topic": "认识世界与价值选择",
+    "studentLabel": "认识世界与价值选择",
+    "detail": "实现人生的价值",
+    "memoryCheckpoint": "必背第三十一关：价值观导向作用 必背",
+    "frequency": 3,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "当代国际政治与经济",
+    "topic": "各具特色的国家",
+    "studentLabel": "各具特色的国家",
+    "detail": "国家的结构形式",
+    "memoryCheckpoint": "",
+    "frequency": 3,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "当代国际政治与经济",
+    "topic": "政治多极化",
+    "studentLabel": "政治多极化",
+    "detail": "中国的外交",
+    "memoryCheckpoint": "必背第三十六关：我国外交政策的内容 ",
+    "frequency": 3,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "逻辑与思维",
+    "topic": "提高创新思维能力",
+    "studentLabel": "提高创新思维能力",
+    "detail": "创新思维要善于联想",
+    "memoryCheckpoint": "必背第四十六关：创新思维的含义、特征",
+    "frequency": 3,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "逻辑与思维",
+    "topic": "提高创新思维能力",
+    "studentLabel": "提高创新思维能力",
+    "detail": "创新思维要多路探索",
+    "memoryCheckpoint": "必背第四十八关：发散思维与聚合思维方",
+    "frequency": 3,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "当代国际政治与经济",
+    "topic": "国际组织",
+    "studentLabel": "国际组织",
+    "detail": "中国与国际组织",
+    "memoryCheckpoint": "",
+    "frequency": 2,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "当代国际政治与经济",
+    "topic": "国际组织",
+    "studentLabel": "国际组织",
+    "detail": "主要的国际组织",
+    "memoryCheckpoint": "",
+    "frequency": 2,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "当代国际政治与经济",
+    "topic": "经济全球化",
+    "studentLabel": "经济全球化",
+    "detail": "经济全球化与中国",
+    "memoryCheckpoint": "必背第三十八关：推动更高水平对外开放",
+    "frequency": 2,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "法律与生活",
+    "topic": "家庭与婚姻",
+    "studentLabel": "家庭与婚姻",
+    "detail": "在和睦家庭中成长",
+    "memoryCheckpoint": "",
+    "frequency": 2,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "法律与生活",
+    "topic": "就业与创业",
+    "studentLabel": "就业与创业",
+    "detail": "自主创业与诚信经营",
+    "memoryCheckpoint": "",
+    "frequency": 2,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "逻辑与思维",
+    "topic": "提高创新思维能力",
+    "studentLabel": "提高创新思维能力",
+    "detail": "创新思维要力求超前",
+    "memoryCheckpoint": "必背第五十关：超前思维的特征及其方法",
+    "frequency": 2,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "逻辑与思维",
+    "topic": "树立科学思维观念",
+    "studentLabel": "树立科学思维观念",
+    "detail": "领会科学思维",
+    "memoryCheckpoint": "",
+    "frequency": 2,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "逻辑与思维",
+    "topic": "运用辩证思维方法",
+    "studentLabel": "运用辩证思维方法",
+    "detail": "理解质量互变",
+    "memoryCheckpoint": "",
+    "frequency": 2,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "哲学与文化",
+    "topic": "文化传承与文化创新",
+    "studentLabel": "文化传承与文化创新",
+    "detail": "学习借鉴外来文化的有益成果",
+    "memoryCheckpoint": "",
+    "frequency": 1,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "政治与法治",
+    "topic": "党的领导",
+    "studentLabel": "党的领导",
+    "detail": "历史和人民的选择",
+    "memoryCheckpoint": "",
+    "frequency": 1,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "政治与法治",
+    "topic": "全面依法治国",
+    "studentLabel": "全面依法治国",
+    "detail": "治国理政的基本方式",
+    "memoryCheckpoint": "必背第十三关：全面依法治国的原则",
+    "frequency": 1,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "逻辑与思维",
+    "topic": "树立科学思维观念",
+    "studentLabel": "树立科学思维观念",
+    "detail": "走进思维世界",
+    "memoryCheckpoint": "必背第四十二关：思维的特征及思维基本",
+    "frequency": 1,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "逻辑与思维",
+    "topic": "运用辩证思维方法",
+    "studentLabel": "运用辩证思维方法",
+    "detail": "推动认识发展",
+    "memoryCheckpoint": "必背第四十四关：辩证否定 必背第四十",
+    "frequency": 1,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "政治",
+    "module": "逻辑与思维",
+    "topic": "遵循逻辑思维规则",
+    "studentLabel": "遵循逻辑思维规则",
+    "detail": "准确把握概念",
+    "memoryCheckpoint": "",
+    "frequency": 1,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027政治知识图谱+记背图谱2.0(1).xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "三角函数与解三角形",
+    "topic": "正余弦定理",
+    "studentLabel": "正余弦定理",
+    "detail": "正弦定理",
+    "memoryCheckpoint": "第九关：正余弦定理与面积公式",
+    "frequency": 5,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "函数与导数",
+    "topic": "函数及其性质",
+    "studentLabel": "函数及其性质",
+    "detail": "函数及其表示",
+    "memoryCheckpoint": "第二十关：函数及其性质",
+    "frequency": 5,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "初高衔接",
+    "topic": "一元二次不等式",
+    "studentLabel": "一元二次不等式",
+    "detail": "一元二次不等式的解法",
+    "memoryCheckpoint": "",
+    "frequency": 5,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "初高衔接",
+    "topic": "一次函数的图像和性质",
+    "studentLabel": "一次函数的图像和性质",
+    "detail": "一次函数的概念、图像与性质、一次函数",
+    "memoryCheckpoint": "第三关：一二次函数图像与性质结论",
+    "frequency": 5,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "初高衔接",
+    "topic": "不等式性质",
+    "studentLabel": "不等式性质",
+    "detail": "作差法比较代数式的大小",
+    "memoryCheckpoint": "第四关：不等式常见结论",
+    "frequency": 5,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "初高衔接",
+    "topic": "二次函数的性质与图象",
+    "studentLabel": "二次函数的性质与图象",
+    "detail": "二次函数的概念、图像与性质、二次函数",
+    "memoryCheckpoint": "",
+    "frequency": 5,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "初高衔接",
+    "topic": "其他不等式",
+    "studentLabel": "其他不等式",
+    "detail": "分式不等式",
+    "memoryCheckpoint": "",
+    "frequency": 5,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "初高衔接",
+    "topic": "常见结论",
+    "studentLabel": "常见结论",
+    "detail": "实数的分类与性质、绝对值与相反数、平",
+    "memoryCheckpoint": "第一关：常见高频结论",
+    "frequency": 5,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "初高衔接",
+    "topic": "指对运算",
+    "studentLabel": "指对运算",
+    "detail": "指数的概念与运算性质、对数的概念与运",
+    "memoryCheckpoint": "第二关：指数对数运算公式",
+    "frequency": 5,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "复数",
+    "topic": "向量的坐标表示法和运算",
+    "studentLabel": "向量的坐标表示法和运算",
+    "detail": "数系的扩充与复数的概念",
+    "memoryCheckpoint": "",
+    "frequency": 5,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "平面向量",
+    "topic": "向量的概念与线性运算",
+    "studentLabel": "向量的概念与线性运算",
+    "detail": "平面向量的基本概念及线性运算",
+    "memoryCheckpoint": "第六关：平面向量基本公式 复数性质和",
+    "frequency": 5,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "平面解析几何",
+    "topic": "拓展：直线与圆锥曲线的位置关系",
+    "studentLabel": "拓展：直线与圆锥曲线的位置关系",
+    "detail": "直线与椭圆的位置关系",
+    "memoryCheckpoint": "第二十八关：直线与圆锥曲线的位置关系",
+    "frequency": 5,
+    "mastery": [
+      true,
+      false,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "空间向量与立体几何空间几何体",
+    "topic": "点、直线、平面之间的位置关系",
+    "studentLabel": "点、直线、平面之间的位置关系",
+    "detail": "空间点、直线、平面之间的位置关系",
+    "memoryCheckpoint": "第十五关：点、直线、平面之间的位置关",
+    "frequency": 5,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "空间向量与立体几何空间几何体",
+    "topic": "空间几何体的结构及表面积与体积",
+    "studentLabel": "空间几何体的结构及表面积与体积",
+    "detail": "空间几何体柱、锥、台的表面积与体积、",
+    "memoryCheckpoint": "第十四关：空间几何体的结构及表面积与",
+    "frequency": 5,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "空间向量与立体几何空间几何体",
+    "topic": "空间向量与立体几何",
+    "studentLabel": "空间向量与立体几何",
+    "detail": "空间向量运算及空间向量的应用",
+    "memoryCheckpoint": "第十六关：空间向量与立体几何公式与结",
+    "frequency": 5,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "集合与常用逻辑用语",
+    "topic": "集合",
+    "studentLabel": "集合",
+    "detail": "拓展：高次不等式（灰度）",
+    "memoryCheckpoint": "第五关：集合与常用逻辑用语符号 基本",
+    "frequency": 5,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "三角函数与解三角形",
+    "topic": "三角函数基础",
+    "studentLabel": "三角函数基础",
+    "detail": "任意角和弧度制及任意角的三角函数",
+    "memoryCheckpoint": "第七关：三角恒等变换公式",
+    "frequency": 4,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "函数与导数",
+    "topic": "函数的应用",
+    "studentLabel": "函数的应用",
+    "detail": "函数与方程 函数与不等式 函数的图像",
+    "memoryCheckpoint": "",
+    "frequency": 4,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "函数与导数",
+    "topic": "导数及其应用",
+    "studentLabel": "导数及其应用",
+    "detail": "导数的概念和几何意义",
+    "memoryCheckpoint": "第二十二关：导数及其应用",
+    "frequency": 4,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "基本不等式",
+    "topic": "基本不等式",
+    "studentLabel": "基本不等式",
+    "detail": "基本不等式(均值定理)",
+    "memoryCheckpoint": "",
+    "frequency": 4,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "平面解析几何",
+    "topic": "圆与方程",
+    "studentLabel": "圆与方程",
+    "detail": "圆的方程",
+    "memoryCheckpoint": "第二十四关：圆与方程公式与性质",
+    "frequency": 4,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "平面解析几何",
+    "topic": "椭圆",
+    "studentLabel": "椭圆",
+    "detail": "椭圆的定义及标准方程及性质",
+    "memoryCheckpoint": "第二十五关：椭圆公式与性质",
+    "frequency": 4,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "平面解析几何",
+    "topic": "直线与方程",
+    "studentLabel": "直线与方程",
+    "detail": "直线的倾斜角与斜率",
+    "memoryCheckpoint": "第二十三关：直线与方程公式与性质",
+    "frequency": 4,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "数列",
+    "topic": "等比数列",
+    "studentLabel": "等比数列",
+    "detail": "等比数列的定义",
+    "memoryCheckpoint": "第十一关：等比数列公式与性质",
+    "frequency": 4,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "计数原理与概率统计",
+    "topic": "概率",
+    "studentLabel": "概率",
+    "detail": "随机事件的概率",
+    "memoryCheckpoint": "",
+    "frequency": 4,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "计数原理与概率统计",
+    "topic": "统计案例",
+    "studentLabel": "统计案例",
+    "detail": "回归分析",
+    "memoryCheckpoint": "",
+    "frequency": 4,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "计数原理与概率统计",
+    "topic": "随机变量及其分布",
+    "studentLabel": "随机变量及其分布",
+    "detail": "离散型随机变量及其分布列",
+    "memoryCheckpoint": "第十九关：随机变量及其分布列公式与性",
+    "frequency": 4,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "函数与导数",
+    "topic": "指对幂函数",
+    "studentLabel": "指对幂函数",
+    "detail": "指数函数",
+    "memoryCheckpoint": "第二十一关：指对幂函数公式与性质",
+    "frequency": 3,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "平面解析几何",
+    "topic": "双曲线",
+    "studentLabel": "双曲线",
+    "detail": "双曲线的定义及标准方程及性质",
+    "memoryCheckpoint": "第二十六关：双曲线公式与性质",
+    "frequency": 3,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "平面解析几何",
+    "topic": "抛物线",
+    "studentLabel": "抛物线",
+    "detail": "抛物线的定义及标准方程及性质",
+    "memoryCheckpoint": "第二十七关：抛物线公式与性质",
+    "frequency": 3,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "数列",
+    "topic": "数列求通项",
+    "studentLabel": "数列求通项",
+    "detail": "倒序相加法求和",
+    "memoryCheckpoint": "第十二关：数列通项及求和方法",
+    "frequency": 3,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "计数原理与概率统计",
+    "topic": "统计",
+    "studentLabel": "统计",
+    "detail": "随机抽样",
+    "memoryCheckpoint": "第十七关：统计与统计案例公式与性质",
+    "frequency": 3,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "计数原理与概率统计",
+    "topic": "计数原理",
+    "studentLabel": "计数原理",
+    "detail": "加法原理与乘法原理",
+    "memoryCheckpoint": "第十八关：计数原理与概率公式与性质",
+    "frequency": 3,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "集合与常用逻辑用语",
+    "topic": "常用逻辑用语",
+    "studentLabel": "常用逻辑用语",
+    "detail": "拓展：命题及其关系(灰度)",
+    "memoryCheckpoint": "",
+    "frequency": 3,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "数列",
+    "topic": "等差数列",
+    "studentLabel": "等差数列",
+    "detail": "等差数列的定义",
+    "memoryCheckpoint": "第十关：等差数列公式与性质",
+    "frequency": 2,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "三角函数与解三角形",
+    "topic": "三角函数图像与性质",
+    "studentLabel": "三角函数图像与性质",
+    "detail": "三角函数的图象与性质",
+    "memoryCheckpoint": "第八关：三角函数图像性质",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "三角函数与解三角形",
+    "topic": "三角函数图像与性质",
+    "studentLabel": "三角函数图像与性质",
+    "detail": "函数y=Asin(wx+φ)的图象变",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "三角函数与解三角形",
+    "topic": "三角函数基础",
+    "studentLabel": "三角函数基础",
+    "detail": "三角函数的诱导公式",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "三角函数与解三角形",
+    "topic": "三角函数基础",
+    "studentLabel": "三角函数基础",
+    "detail": "两角和与差公式",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "三角函数与解三角形",
+    "topic": "三角函数基础",
+    "studentLabel": "三角函数基础",
+    "detail": "二倍角公式、降幂公式、辅助角公式解三",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "三角函数与解三角形",
+    "topic": "三角函数基础",
+    "studentLabel": "三角函数基础",
+    "detail": "同角三角函数的基本关系",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "三角函数与解三角形",
+    "topic": "正余弦定理",
+    "studentLabel": "正余弦定理",
+    "detail": "余弦定理",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "三角函数与解三角形",
+    "topic": "正余弦定理",
+    "studentLabel": "正余弦定理",
+    "detail": "解三角形的综合应用",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "函数与导数",
+    "topic": "函数及其性质",
+    "studentLabel": "函数及其性质",
+    "detail": "函数的基本性质",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "函数与导数",
+    "topic": "导数及其应用",
+    "studentLabel": "导数及其应用",
+    "detail": "导数的计算",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "函数与导数",
+    "topic": "导数及其应用",
+    "studentLabel": "导数及其应用",
+    "detail": "拓展：导数综合应用",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "函数与导数",
+    "topic": "指对幂函数",
+    "studentLabel": "指对幂函数",
+    "detail": "对数函数",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "函数与导数",
+    "topic": "指对幂函数",
+    "studentLabel": "指对幂函数",
+    "detail": "幂函数",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "初高衔接",
+    "topic": "不等式性质",
+    "studentLabel": "不等式性质",
+    "detail": "不等式常见性质",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "初高衔接",
+    "topic": "不等式性质",
+    "studentLabel": "不等式性质",
+    "detail": "作商法比较代数式的大小",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "初高衔接",
+    "topic": "其他不等式",
+    "studentLabel": "其他不等式",
+    "detail": "绝对值不等式",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "基本不等式",
+    "topic": "基本不等式",
+    "studentLabel": "基本不等式",
+    "detail": "基本(均值)不等式求最值",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "复数",
+    "topic": "向量的坐标表示法和运算",
+    "studentLabel": "向量的坐标表示法和运算",
+    "detail": "复数代数形式的四则运算",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "平面向量",
+    "topic": "向量的坐标表示法和运算",
+    "studentLabel": "向量的坐标表示法和运算",
+    "detail": "平面向量的基本定理及坐标表示",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "平面向量",
+    "topic": "向量的坐标表示法和运算",
+    "studentLabel": "向量的坐标表示法和运算",
+    "detail": "数量积与平面向量的应用",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "平面解析几何",
+    "topic": "双曲线",
+    "studentLabel": "双曲线",
+    "detail": "几类特殊的双曲线(灰度)",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "平面解析几何",
+    "topic": "圆与方程",
+    "studentLabel": "圆与方程",
+    "detail": "圆与圆的位置关系",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "平面解析几何",
+    "topic": "圆与方程",
+    "studentLabel": "圆与方程",
+    "detail": "直线与圆的位置关系",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "平面解析几何",
+    "topic": "拓展：直线与圆锥曲线的位置关系",
+    "studentLabel": "拓展：直线与圆锥曲线的位置关系",
+    "detail": "双曲线的弦长、焦点弦、中点弦、参数范",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "平面解析几何",
+    "topic": "拓展：直线与圆锥曲线的位置关系",
+    "studentLabel": "拓展：直线与圆锥曲线的位置关系",
+    "detail": "圆锥曲线中的定点、定值、定直线",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "平面解析几何",
+    "topic": "拓展：直线与圆锥曲线的位置关系",
+    "studentLabel": "拓展：直线与圆锥曲线的位置关系",
+    "detail": "抛物线的弦长、中点弦、焦点弦的性质、",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "平面解析几何",
+    "topic": "拓展：直线与圆锥曲线的位置关系",
+    "studentLabel": "拓展：直线与圆锥曲线的位置关系",
+    "detail": "椭圆的弦长、焦点弦、中点弦、参数范围",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "平面解析几何",
+    "topic": "拓展：直线与圆锥曲线的位置关系",
+    "studentLabel": "拓展：直线与圆锥曲线的位置关系",
+    "detail": "直线与双曲线的位置关系",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "平面解析几何",
+    "topic": "拓展：直线与圆锥曲线的位置关系",
+    "studentLabel": "拓展：直线与圆锥曲线的位置关系",
+    "detail": "直线与抛物线的位置关系",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "平面解析几何",
+    "topic": "直线与方程",
+    "studentLabel": "直线与方程",
+    "detail": "直线的方程与距离公式",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "数列",
+    "topic": "数列求和",
+    "studentLabel": "数列求和",
+    "detail": "分组(并项)法求和",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "数列",
+    "topic": "数列求和",
+    "studentLabel": "数列求和",
+    "detail": "裂项相消法求和",
+    "memoryCheckpoint": "第十三关：数列通项及求和方法",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "数列",
+    "topic": "数列求通项",
+    "studentLabel": "数列求通项",
+    "detail": "错位相减法求和",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "数列",
+    "topic": "等差数列",
+    "studentLabel": "等差数列",
+    "detail": "等差数列的函数特性(灰度)",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      false,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "数列",
+    "topic": "等差数列",
+    "studentLabel": "等差数列",
+    "detail": "等差数列的前n项和",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "数列",
+    "topic": "等差数列",
+    "studentLabel": "等差数列",
+    "detail": "等差数列的性质",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "数列",
+    "topic": "等差数列",
+    "studentLabel": "等差数列",
+    "detail": "等差数列的通项公式",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "数列",
+    "topic": "等比数列",
+    "studentLabel": "等比数列",
+    "detail": "等比数列的函数特性(灰度)",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      false,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "数列",
+    "topic": "等比数列",
+    "studentLabel": "等比数列",
+    "detail": "等比数列的前n项和",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "数列",
+    "topic": "等比数列",
+    "studentLabel": "等比数列",
+    "detail": "等比数列的性质",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "数列",
+    "topic": "等比数列",
+    "studentLabel": "等比数列",
+    "detail": "等比数列的通项公式",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "空间向量与立体几何空间几何体",
+    "topic": "点、直线、平面之间的位置关系",
+    "studentLabel": "点、直线、平面之间的位置关系",
+    "detail": "直线、平面垂直的判定与性质",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "空间向量与立体几何空间几何体",
+    "topic": "点、直线、平面之间的位置关系",
+    "studentLabel": "点、直线、平面之间的位置关系",
+    "detail": "直线、平面平行的判定与性质",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "计数原理与概率统计",
+    "topic": "概率",
+    "studentLabel": "概率",
+    "detail": "古典概型",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "计数原理与概率统计",
+    "topic": "统计",
+    "studentLabel": "统计",
+    "detail": "变量间的相关关系",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "计数原理与概率统计",
+    "topic": "统计",
+    "studentLabel": "统计",
+    "detail": "用样本估计总体",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "计数原理与概率统计",
+    "topic": "统计案例",
+    "studentLabel": "统计案例",
+    "detail": "独立性检验",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "计数原理与概率统计",
+    "topic": "计数原理",
+    "studentLabel": "计数原理",
+    "detail": "二项式定理",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "计数原理与概率统计",
+    "topic": "计数原理",
+    "studentLabel": "计数原理",
+    "detail": "排列组合排列组合综合",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "计数原理与概率统计",
+    "topic": "随机变量及其分布",
+    "studentLabel": "随机变量及其分布",
+    "detail": "两点分布、二项分布、超几何分布及其应",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "计数原理与概率统计",
+    "topic": "随机变量及其分布",
+    "studentLabel": "随机变量及其分布",
+    "detail": "正态分布",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "计数原理与概率统计",
+    "topic": "随机变量及其分布",
+    "studentLabel": "随机变量及其分布",
+    "detail": "离散型随机变量的均值与方差",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "集合与常用逻辑用语",
+    "topic": "常用逻辑用语",
+    "studentLabel": "常用逻辑用语",
+    "detail": "充分条件与必要条件",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "集合与常用逻辑用语",
+    "topic": "常用逻辑用语",
+    "studentLabel": "常用逻辑用语",
+    "detail": "全称量词与存在量词",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "集合与常用逻辑用语",
+    "topic": "集合",
+    "studentLabel": "集合",
+    "detail": "拓展：集合新定义(灰度)",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "集合与常用逻辑用语",
+    "topic": "集合",
+    "studentLabel": "集合",
+    "detail": "集合的含义与表示",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      false,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "集合与常用逻辑用语",
+    "topic": "集合",
+    "studentLabel": "集合",
+    "detail": "集合的基本运算",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "数学",
+    "module": "集合与常用逻辑用语",
+    "topic": "集合",
+    "studentLabel": "集合",
+    "detail": "集合间的基本关系",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届数学知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "阅读模块",
+    "topic": "信息理解",
+    "studentLabel": "信息理解",
+    "detail": "1、提问方式：主观判断或者对错判断题",
+    "memoryCheckpoint": "/",
+    "frequency": 28,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "单词和句型（语言知识运用10）",
+    "topic": "单词",
+    "studentLabel": "单词",
+    "detail": "",
+    "memoryCheckpoint": "千锤百炼口袋书",
+    "frequency": 18,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "阅读模块",
+    "topic": "原因、理由",
+    "studentLabel": "原因、理由",
+    "detail": "1、提问方式：文中の「～」の理由／原",
+    "memoryCheckpoint": "/",
+    "frequency": 15,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "听力模块",
+    "topic": "时间、数量",
+    "studentLabel": "时间、数量",
+    "detail": "1、有关事态的表达 2、有关先后顺序",
+    "memoryCheckpoint": "口袋书-听力词汇：时间数量篇",
+    "frequency": 12,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "助词（语言知识运用6）",
+    "topic": "格助词",
+    "studentLabel": "格助词",
+    "detail": "は・が・に・で・を・へ・と・の・から",
+    "memoryCheckpoint": "格助词语法汇总",
+    "frequency": 11,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "听力模块",
+    "topic": "日常生活",
+    "studentLabel": "日常生活",
+    "detail": "1、疑问的表达 2、否定的表达",
+    "memoryCheckpoint": "口袋书-听力词汇：日常生活篇",
+    "frequency": 11,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "动词（语言知识运用7）",
+    "topic": "动词变形与自他动词",
+    "studentLabel": "动词变形与自他动词",
+    "detail": "概念·区分·するなる复习 动词变形总",
+    "memoryCheckpoint": "动词分类及动词变形表",
+    "frequency": 9,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "听力模块",
+    "topic": "人物、状态描述",
+    "studentLabel": "人物、状态描述",
+    "detail": "1、请求、邀请、提议表达 2、寒暄表",
+    "memoryCheckpoint": "口袋书-听力词汇：人物、状态篇",
+    "frequency": 9,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "听力模块",
+    "topic": "动作行为",
+    "studentLabel": "动作行为",
+    "detail": "1、动作状态的相关表达 2、授受表达",
+    "memoryCheckpoint": "口袋书-听力词汇：动作行为篇",
+    "frequency": 9,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "阅读模块",
+    "topic": "连词及内容填空",
+    "studentLabel": "连词及内容填空",
+    "detail": "1、提问方式：文中の（ア）に入れるの",
+    "memoryCheckpoint": "口袋书-重点词汇：连词篇",
+    "frequency": 9,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "听力模块",
+    "topic": "原因、理由",
+    "studentLabel": "原因、理由",
+    "detail": "1、原因、想法、要求等表达",
+    "memoryCheckpoint": "/",
+    "frequency": 8,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "形式名词（语言知识运用10）",
+    "topic": "形式名词",
+    "studentLabel": "形式名词",
+    "detail": "こと もの の ところ つもり わけ",
+    "memoryCheckpoint": "形式名词汇总表",
+    "frequency": 7,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "阅读模块",
+    "topic": "主旨观点",
+    "studentLabel": "主旨观点",
+    "detail": "1、提问方式：筆者の最も言いたいこと",
+    "memoryCheckpoint": "/",
+    "frequency": 7,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "听力模块",
+    "topic": "场所",
+    "studentLabel": "场所",
+    "detail": "1、生活情景会话",
+    "memoryCheckpoint": "口袋书-听力词汇：场所篇",
+    "frequency": 6,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "听力模块",
+    "topic": "校园、职场",
+    "studentLabel": "校园、职场",
+    "detail": "1、现在时的敬体与简体 2、过去时的",
+    "memoryCheckpoint": "口袋书-听力词汇：校园职场篇",
+    "frequency": 5,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "动词（语言知识运用7）",
+    "topic": "授受动词总结",
+    "studentLabel": "授受动词总结",
+    "detail": "授受动词复习 授受动词与使役结合",
+    "memoryCheckpoint": "授受动词语法汇总",
+    "frequency": 4,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "动词（语言知识运用7）",
+    "topic": "补助动词总结",
+    "studentLabel": "补助动词总结",
+    "detail": "补助动词的活用",
+    "memoryCheckpoint": "补助动词语法汇总",
+    "frequency": 4,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "单词和句型（语言知识运用10）",
+    "topic": "句型",
+    "studentLabel": "句型",
+    "detail": "必背句型138句",
+    "memoryCheckpoint": "必背句型138句汇总",
+    "frequency": 4,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "形容词（语言知识运用8）",
+    "topic": "形容词总结",
+    "studentLabel": "形容词总结",
+    "detail": "形容词活用 形容词词意",
+    "memoryCheckpoint": "形容词语法汇总 形容词单词表",
+    "frequency": 4,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "助词（语言知识运用6）",
+    "topic": "副助词",
+    "studentLabel": "副助词",
+    "detail": "\"さえ・でも・こそ・しか・ばかり・だ",
+    "memoryCheckpoint": "副助词语法汇总",
+    "frequency": 3,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "动词（语言知识运用7）",
+    "topic": "复合词总结",
+    "studentLabel": "复合词总结",
+    "detail": "复合词",
+    "memoryCheckpoint": "复合词语法汇总",
+    "frequency": 2,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "助词（语言知识运用6）",
+    "topic": "接续助词",
+    "studentLabel": "接续助词",
+    "detail": "が（けど・けれど・けれども）・のに・",
+    "memoryCheckpoint": "接续助词语法汇总",
+    "frequency": 2,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "大作文模块",
+    "topic": "记叙议论文",
+    "studentLabel": "记叙议论文",
+    "detail": "1、四大基础句型：断定句、描写句、叙",
+    "memoryCheckpoint": "口袋书-大作文模板：记叙议论文",
+    "frequency": 2,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "助动词（语言知识运用9）",
+    "topic": "样态语法",
+    "studentLabel": "样态语法",
+    "detail": "传闻、样态、推测表达",
+    "memoryCheckpoint": "样态语法汇总 样态语法接续、活用变形",
+    "frequency": 1,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "助动词（语言知识运用9）",
+    "topic": "目的表达",
+    "studentLabel": "目的表达",
+    "detail": "ように ために",
+    "memoryCheckpoint": "目的表达语法汇总",
+    "frequency": 1,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "大作文模块",
+    "topic": "议论观点文",
+    "studentLabel": "议论观点文",
+    "detail": "1、日语作文必会表达 2、观点句表达",
+    "memoryCheckpoint": "口袋书-大作文模板：观点议论文",
+    "frequency": 1,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "应用文主要格式",
+    "topic": "通知",
+    "studentLabel": "通知",
+    "detail": "1、小作文格式 2、小作文百搭句：通",
+    "memoryCheckpoint": "口袋书-小作文模板：通知",
+    "frequency": 1,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "应用文主要格式",
+    "topic": "邮件",
+    "studentLabel": "邮件",
+    "detail": "1、小作文格式 2、小作文百搭句：说",
+    "memoryCheckpoint": "口袋书-小作文模板：邮件",
+    "frequency": 1,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "应用文拓展文体",
+    "topic": "演讲稿拓展文体",
+    "studentLabel": "演讲稿拓展文体",
+    "detail": "主持词、新闻稿、宣传稿、导游词、旁白",
+    "memoryCheckpoint": "演讲稿拓展文体的格式及模板",
+    "frequency": 1,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "动词活用与简体表达（语言知识运用3）",
+    "topic": "动词た形",
+    "studentLabel": "动词た形",
+    "detail": "1.た形变形规则 2.た形相关句型",
+    "memoryCheckpoint": "口袋书-基础词汇：第十八回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "动词活用与简体表达（语言知识运用3）",
+    "topic": "动词て形",
+    "studentLabel": "动词て形",
+    "detail": "1.动词て形变形规则 2.动词て形句",
+    "memoryCheckpoint": "口袋书-基础词汇：第十七回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "动词活用与简体表达（语言知识运用3）",
+    "topic": "动词ない形",
+    "studentLabel": "动词ない形",
+    "detail": "1.ない形变形规则 2.ない形相关句",
+    "memoryCheckpoint": "口袋书-基础词汇：第十六回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "动词活用与简体表达（语言知识运用3）",
+    "topic": "动词原形",
+    "studentLabel": "动词原形",
+    "detail": "1.动词原形复习 2.动词原形相关句",
+    "memoryCheckpoint": "口袋书-基础词汇：第十五回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "动词活用与简体表达（语言知识运用3）",
+    "topic": "敬体与简体",
+    "studentLabel": "敬体与简体",
+    "detail": "1.动词简体与敬体 2.形容词简体与",
+    "memoryCheckpoint": "口袋书-基础词汇：第十九回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "动词活用与简体表达（语言知识运用3）",
+    "topic": "简体形基本句型1",
+    "studentLabel": "简体形基本句型1",
+    "detail": "1.と思う 2.と言う 3.時 4.",
+    "memoryCheckpoint": "口袋书-基础词汇：第二十回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "动词活用与简体表达（语言知识运用3）",
+    "topic": "简体形基本句型2",
+    "studentLabel": "简体形基本句型2",
+    "detail": "1.のに 2.ので 3.のです 4.",
+    "memoryCheckpoint": "口袋书-基础词汇：第二十一回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "动词的扩展表达与运用（语言知识运用4",
+    "topic": "假定语法1",
+    "studentLabel": "假定语法1",
+    "detail": "1.と 2.たら 3.なら 4.ても",
+    "memoryCheckpoint": "口袋书-基础词汇：第二十二回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "动词的扩展表达与运用（语言知识运用4",
+    "topic": "假定语法2",
+    "studentLabel": "假定语法2",
+    "detail": "1.ば形 2.が、けど 3.とか",
+    "memoryCheckpoint": "口袋书-基础词汇：第二十三回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "动词的扩展表达与运用（语言知识运用4",
+    "topic": "动词命令形",
+    "studentLabel": "动词命令形",
+    "detail": "1.命令形变形规则 2.命令形、禁止",
+    "memoryCheckpoint": "口袋书-基础词汇：第二十四回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "动词的扩展表达与运用（语言知识运用4",
+    "topic": "动词意志形",
+    "studentLabel": "动词意志形",
+    "detail": "1.意图表达（～たい・ほしい・意志形",
+    "memoryCheckpoint": "口袋书-基础词汇：第二十五回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "动词的扩展表达与运用（语言知识运用4",
+    "topic": "样态语法1",
+    "studentLabel": "样态语法1",
+    "detail": "1.そう 2.ながら 3.し",
+    "memoryCheckpoint": "口袋书-基础词汇：第二十六回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "动词的扩展表达与运用（语言知识运用4",
+    "topic": "样态语法2",
+    "studentLabel": "样态语法2",
+    "detail": "1.よう 2.みたい 3.らしい",
+    "memoryCheckpoint": "口袋书-基础词汇：第二十七回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "动词语态与功能转化（语言知识运用5）",
+    "topic": "使役句",
+    "studentLabel": "使役句",
+    "detail": "1.使役态变形规则 2.使役态句型表",
+    "memoryCheckpoint": "口袋书-基础词汇：第三十二回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "动词语态与功能转化（语言知识运用5）",
+    "topic": "动词可能形",
+    "studentLabel": "动词可能形",
+    "detail": "1.可能形变形规则 2.～ように与可",
+    "memoryCheckpoint": "口袋书-基础词汇：第二十八回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "动词语态与功能转化（语言知识运用5）",
+    "topic": "补助动词1",
+    "studentLabel": "补助动词1",
+    "detail": "1.～ている 2.～てある 3.～て",
+    "memoryCheckpoint": "口袋书-基础词汇：第二十九回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "动词语态与功能转化（语言知识运用5）",
+    "topic": "补助动词2",
+    "studentLabel": "补助动词2",
+    "detail": "1.～てくる 2.～ていく 3.～て",
+    "memoryCheckpoint": "口袋书-基础词汇：第三十回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "动词语态与功能转化（语言知识运用5）",
+    "topic": "被动句",
+    "studentLabel": "被动句",
+    "detail": "1.被动态变形规则 2.被动态句型表",
+    "memoryCheckpoint": "口袋书-基础词汇：第三十一回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "助动词（语言知识运用9）",
+    "topic": "ないで・なくて",
+    "studentLabel": "ないで・なくて",
+    "detail": "区分与使用",
+    "memoryCheckpoint": "否定语法汇总",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "助动词（语言知识运用9）",
+    "topic": "愿望表达",
+    "studentLabel": "愿望表达",
+    "detail": "愿望表达",
+    "memoryCheckpoint": "愿望表达语法汇总",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "基础句型结构（语言知识运用1）",
+    "topic": "判断句",
+    "studentLabel": "判断句",
+    "detail": "1.肯定句 2.否定句 3.疑问句",
+    "memoryCheckpoint": "口袋书-基础词汇：第一回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "基础句型结构（语言知识运用1）",
+    "topic": "动词基础",
+    "studentLabel": "动词基础",
+    "detail": "1.动词原形分类规则 2.动词时态 ",
+    "memoryCheckpoint": "口袋书-基础词汇：第三回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "基础句型结构（语言知识运用1）",
+    "topic": "基本助词1",
+    "studentLabel": "基本助词1",
+    "detail": "1.に 2.から 3.まで 4.へ",
+    "memoryCheckpoint": "口袋书-基础词汇：第五回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "基础句型结构（语言知识运用1）",
+    "topic": "基本助词2",
+    "studentLabel": "基本助词2",
+    "detail": "1.で 2.と 3.を 4.か 5.",
+    "memoryCheckpoint": "口袋书-基础词汇：第六回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "基础句型结构（语言知识运用1）",
+    "topic": "存在动词",
+    "studentLabel": "存在动词",
+    "detail": "1.存在句型 2.方位单词运用",
+    "memoryCheckpoint": "口袋书-基础词汇：第四回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "基础句型结构（语言知识运用1）",
+    "topic": "指示代词",
+    "studentLabel": "指示代词",
+    "detail": "指示代词（物品+地点）",
+    "memoryCheckpoint": "口袋书-基础词汇：第二回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "基础句型结构（语言知识运用1）",
+    "topic": "物品授受",
+    "studentLabel": "物品授受",
+    "detail": "1.あげる（やる,さしあげる） 2.",
+    "memoryCheckpoint": "口袋书-基础词汇：第七回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "大作文模块",
+    "topic": "图表说明文",
+    "studentLabel": "图表说明文",
+    "detail": "1、图表信息分析 2、图表专用表达句",
+    "memoryCheckpoint": "口袋书-大作文模板：图表说明文",
+    "frequency": 0,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "应用文主要格式",
+    "topic": "书信",
+    "studentLabel": "书信",
+    "detail": "1、小作文格式 2、小作文百搭句： ",
+    "memoryCheckpoint": "口袋书-小作文模板：书信",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "应用文主要格式",
+    "topic": "日记",
+    "studentLabel": "日记",
+    "detail": "1、小作文格式 2、小作文百搭句：断",
+    "memoryCheckpoint": "口袋书-小作文模板：日记",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "应用文主要格式",
+    "topic": "演讲稿",
+    "studentLabel": "演讲稿",
+    "detail": "1、小作文格式 2、小作文百搭句：演",
+    "memoryCheckpoint": "口袋书-小作文模板：演讲稿",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "应用文拓展文体",
+    "topic": "书信拓展文体",
+    "studentLabel": "书信拓展文体",
+    "detail": "便条（留言条）、明信片、倡议书、发帖",
+    "memoryCheckpoint": "书信拓展文体的格式及模板",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "应用文拓展文体",
+    "topic": "通知拓展文体",
+    "studentLabel": "通知拓展文体",
+    "detail": "失物招领、寻物启事、招新广告、通讯稿",
+    "memoryCheckpoint": "通知拓展文体的格式及模板",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "形容词句法功能（语言知识运用2）",
+    "topic": "一类形容词",
+    "studentLabel": "一类形容词",
+    "detail": "1.形容词分类 2.一类形容词的时态",
+    "memoryCheckpoint": "口袋书-基础词汇：第九回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "形容词句法功能（语言知识运用2）",
+    "topic": "二类形容词",
+    "studentLabel": "二类形容词",
+    "detail": "1.二类形容词时态 2.二类形容词修",
+    "memoryCheckpoint": "口袋书-基础词汇：第十回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "形容词句法功能（语言知识运用2）",
+    "topic": "变化句",
+    "studentLabel": "变化句",
+    "detail": "1.变化句（自他含义可自行带过）",
+    "memoryCheckpoint": "口袋书-基础词汇：第十二回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "形容词句法功能（语言知识运用2）",
+    "topic": "基本助词3",
+    "studentLabel": "基本助词3",
+    "detail": "1.能力/喜恶表达 2.に 3.を ",
+    "memoryCheckpoint": "口袋书-基础词汇：第十三回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "形容词句法功能（语言知识运用2）",
+    "topic": "形容词て形",
+    "studentLabel": "形容词て形",
+    "detail": "1.形容词て形变形规则 2.形容词并",
+    "memoryCheckpoint": "口袋书-基础词汇：第十一回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "形容词句法功能（语言知识运用2）",
+    "topic": "数量词",
+    "studentLabel": "数量词",
+    "detail": "1.单位运用 2.量词句型",
+    "memoryCheckpoint": "口袋书-基础词汇：第八回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "形容词句法功能（语言知识运用2）",
+    "topic": "比较句型",
+    "studentLabel": "比较句型",
+    "detail": "比较句型",
+    "memoryCheckpoint": "口袋书-基础词汇：第十四回",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "敬语（语言知识运用11）",
+    "topic": "敬语",
+    "studentLabel": "敬语",
+    "detail": "自谦语、尊他语、郑重语特殊表达及句型",
+    "memoryCheckpoint": "敬语句型汇总表 特殊动词尊他、自谦表",
+    "frequency": 0,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "日语",
+    "module": "阅读模块",
+    "topic": "指示代词",
+    "studentLabel": "指示代词",
+    "detail": "1、提问方式：文中の「～」の理由／原",
+    "memoryCheckpoint": "口袋书-重点词汇：副词篇",
+    "frequency": 0,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届日语知识图谱+记背图谱(3).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块一 细胞基础内容",
+    "topic": "物质进出细胞的方式",
+    "studentLabel": "物质进出细胞的方式",
+    "detail": "物质进出细胞的方式",
+    "memoryCheckpoint": "第四关：4种跨膜运输方式的特点、实例",
+    "frequency": 1,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块一 细胞基础内容",
+    "topic": "细胞中的元素和化合物",
+    "studentLabel": "细胞中的元素和化合物",
+    "detail": "组成元素、无机物（水、无机盐）、有机",
+    "memoryCheckpoint": "第一关:细胞中的物质",
+    "frequency": 1,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块一 细胞基础内容",
+    "topic": "细胞学基础",
+    "studentLabel": "细胞学基础",
+    "detail": "细胞学说、真核细胞与原核细胞、病毒",
+    "memoryCheckpoint": "第二关:细胞的结构与区别",
+    "frequency": 1,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块一 细胞基础内容",
+    "topic": "细胞的结构",
+    "studentLabel": "细胞的结构",
+    "detail": "细胞膜",
+    "memoryCheckpoint": "",
+    "frequency": 1,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块七 生物与环境",
+    "topic": "人类与环境",
+    "studentLabel": "人类与环境",
+    "detail": "全球性的环境问题",
+    "memoryCheckpoint": "",
+    "frequency": 1,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块七 生物与环境",
+    "topic": "生态系统",
+    "studentLabel": "生态系统",
+    "detail": "生态系统的概念与组成成分",
+    "memoryCheckpoint": "第二十三关：生态系统",
+    "frequency": 1,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块七 生物与环境",
+    "topic": "种群",
+    "studentLabel": "种群",
+    "detail": "种群的概念与特征",
+    "memoryCheckpoint": "第二十一关：种群",
+    "frequency": 1,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块七 生物与环境",
+    "topic": "群落",
+    "studentLabel": "群落",
+    "detail": "群落的概念",
+    "memoryCheckpoint": "第二十二关：群落",
+    "frequency": 1,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块三 细胞的生命历程",
+    "topic": "有丝分裂和减数分裂",
+    "studentLabel": "有丝分裂和减数分裂",
+    "detail": "有丝分裂",
+    "memoryCheckpoint": "第八关：细胞分裂",
+    "frequency": 1,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块三 细胞的生命历程",
+    "topic": "细胞分化、衰老、凋亡和癌变",
+    "studentLabel": "细胞分化、衰老、凋亡和癌变",
+    "detail": "细胞分化",
+    "memoryCheckpoint": "第九关：细胞的生命历程",
+    "frequency": 1,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块二 细胞代谢",
+    "topic": "ATP和酶",
+    "studentLabel": "ATP和酶",
+    "detail": "ATP",
+    "memoryCheckpoint": "第五关：ATP和酶",
+    "frequency": 1,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块二 细胞代谢",
+    "topic": "代谢综合",
+    "studentLabel": "代谢综合",
+    "detail": "代谢综合分析",
+    "memoryCheckpoint": "",
+    "frequency": 1,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块二 细胞代谢",
+    "topic": "光合作用",
+    "studentLabel": "光合作用",
+    "detail": "光反应过程",
+    "memoryCheckpoint": "第七关：光合作用",
+    "frequency": 1,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块二 细胞代谢",
+    "topic": "细胞呼吸",
+    "studentLabel": "细胞呼吸",
+    "detail": "需氧呼吸",
+    "memoryCheckpoint": "第六关：细胞呼吸",
+    "frequency": 1,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块五 变异与育种",
+    "topic": "变异与育种",
+    "studentLabel": "变异与育种",
+    "detail": "基因突变与基于重组",
+    "memoryCheckpoint": "第十四关：变异与育种",
+    "frequency": 1,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块五 变异与育种",
+    "topic": "进化和基因频率的计算",
+    "studentLabel": "进化和基因频率的计算",
+    "detail": "进化",
+    "memoryCheckpoint": "第十五关：进化的证据",
+    "frequency": 1,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块八 生物技术与工程",
+    "topic": "动物细胞工程",
+    "studentLabel": "动物细胞工程",
+    "detail": "动物细胞工程",
+    "memoryCheckpoint": "第二十六关：动物细胞工程",
+    "frequency": 1,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块八 生物技术与工程",
+    "topic": "发酵工程",
+    "studentLabel": "发酵工程",
+    "detail": "发酵工程",
+    "memoryCheckpoint": "第二十四关：发酵工程",
+    "frequency": 1,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块八 生物技术与工程",
+    "topic": "基因工程",
+    "studentLabel": "基因工程",
+    "detail": "基因工程的原理与过程",
+    "memoryCheckpoint": "第二十七关：基因工程",
+    "frequency": 1,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块八 生物技术与工程",
+    "topic": "植物细胞工程",
+    "studentLabel": "植物细胞工程",
+    "detail": "植物细胞工程",
+    "memoryCheckpoint": "第二十五关：植物细胞工程",
+    "frequency": 1,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块六 稳态与调节",
+    "topic": "体液调节",
+    "studentLabel": "体液调节",
+    "detail": "激素调节",
+    "memoryCheckpoint": "第十八关：体液调节",
+    "frequency": 1,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块六 稳态与调节",
+    "topic": "免疫调节",
+    "studentLabel": "免疫调节",
+    "detail": "免疫系统的组成",
+    "memoryCheckpoint": "第十九关：免疫调节",
+    "frequency": 1,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块六 稳态与调节",
+    "topic": "内环境及其稳态",
+    "studentLabel": "内环境及其稳态",
+    "detail": "内环境",
+    "memoryCheckpoint": "第十六关：内环境的组成与特点",
+    "frequency": 1,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块六 稳态与调节",
+    "topic": "植物激素",
+    "studentLabel": "植物激素",
+    "detail": "生长素",
+    "memoryCheckpoint": "第二十关：植物激素",
+    "frequency": 1,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块六 稳态与调节",
+    "topic": "神经调节",
+    "studentLabel": "神经调节",
+    "detail": "反射弧",
+    "memoryCheckpoint": "第十七关：神经调节",
+    "frequency": 1,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块六 稳态与调节",
+    "topic": "神经调节和体液调节实例",
+    "studentLabel": "神经调节和体液调节实例",
+    "detail": "神经-体液调节实例",
+    "memoryCheckpoint": "",
+    "frequency": 1,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块四 遗传学",
+    "topic": "DNA的分子结构及复制",
+    "studentLabel": "DNA的分子结构及复制",
+    "detail": "DNA的结构以及特点",
+    "memoryCheckpoint": "",
+    "frequency": 1,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块四 遗传学",
+    "topic": "伴性遗传",
+    "studentLabel": "伴性遗传",
+    "detail": "伴性遗传的特点与实例",
+    "memoryCheckpoint": "第十一关：伴性遗传的特点与实例",
+    "frequency": 1,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块四 遗传学",
+    "topic": "分离定律",
+    "studentLabel": "分离定律",
+    "detail": "分离定律",
+    "memoryCheckpoint": "第十关：遗传定律基础",
+    "frequency": 1,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块四 遗传学",
+    "topic": "基因的表达",
+    "studentLabel": "基因的表达",
+    "detail": "转录和翻译",
+    "memoryCheckpoint": "",
+    "frequency": 1,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块四 遗传学",
+    "topic": "自由组合定律",
+    "studentLabel": "自由组合定律",
+    "detail": "自由组合定律",
+    "memoryCheckpoint": "",
+    "frequency": 1,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块四 遗传学",
+    "topic": "证明DNA是主要遗传物质",
+    "studentLabel": "证明DNA是主要遗传物质",
+    "detail": "生物学史",
+    "memoryCheckpoint": "第十二关：DNA是主要遗传物质",
+    "frequency": 1,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块一 细胞基础内容",
+    "topic": "物质进出细胞的方式",
+    "studentLabel": "物质进出细胞的方式",
+    "detail": "实验验证",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块一 细胞基础内容",
+    "topic": "细胞的结构",
+    "studentLabel": "细胞的结构",
+    "detail": "细胞器",
+    "memoryCheckpoint": "第三关:细胞器、细胞核的结构功能",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块一 细胞基础内容",
+    "topic": "细胞的结构",
+    "studentLabel": "细胞的结构",
+    "detail": "细胞核",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块七 生物与环境",
+    "topic": "人类与环境",
+    "studentLabel": "人类与环境",
+    "detail": "生态系统的实际应用",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块七 生物与环境",
+    "topic": "生态系统",
+    "studentLabel": "生态系统",
+    "detail": "生态系统的物质循环与信息传递",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块七 生物与环境",
+    "topic": "生态系统",
+    "studentLabel": "生态系统",
+    "detail": "生态系统的能量流动",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块七 生物与环境",
+    "topic": "种群",
+    "studentLabel": "种群",
+    "detail": "种群数量增长曲线",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块七 生物与环境",
+    "topic": "群落",
+    "studentLabel": "群落",
+    "detail": "群落演替",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块三 细胞的生命历程",
+    "topic": "有丝分裂和减数分裂",
+    "studentLabel": "有丝分裂和减数分裂",
+    "detail": "减数分裂",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块三 细胞的生命历程",
+    "topic": "有丝分裂和减数分裂",
+    "studentLabel": "有丝分裂和减数分裂",
+    "detail": "图像、图片分析",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块三 细胞的生命历程",
+    "topic": "细胞分化、衰老、凋亡和癌变",
+    "studentLabel": "细胞分化、衰老、凋亡和癌变",
+    "detail": "细胞癌变",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块三 细胞的生命历程",
+    "topic": "细胞分化、衰老、凋亡和癌变",
+    "studentLabel": "细胞分化、衰老、凋亡和癌变",
+    "detail": "细胞衰老",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块二 细胞代谢",
+    "topic": "ATP和酶",
+    "studentLabel": "ATP和酶",
+    "detail": "酶",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块二 细胞代谢",
+    "topic": "光合作用",
+    "studentLabel": "光合作用",
+    "detail": "光合作用影响因素",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块二 细胞代谢",
+    "topic": "光合作用",
+    "studentLabel": "光合作用",
+    "detail": "光合色素的提取与分离实验",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块二 细胞代谢",
+    "topic": "光合作用",
+    "studentLabel": "光合作用",
+    "detail": "碳反应过程",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块二 细胞代谢",
+    "topic": "细胞呼吸",
+    "studentLabel": "细胞呼吸",
+    "detail": "厌氧呼吸",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块二 细胞代谢",
+    "topic": "细胞呼吸",
+    "studentLabel": "细胞呼吸",
+    "detail": "影响因素",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块五 变异与育种",
+    "topic": "变异与育种",
+    "studentLabel": "变异与育种",
+    "detail": "染色体畸变",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块五 变异与育种",
+    "topic": "变异与育种",
+    "studentLabel": "变异与育种",
+    "detail": "育种",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块五 变异与育种",
+    "topic": "进化和基因频率的计算",
+    "studentLabel": "进化和基因频率的计算",
+    "detail": "基因频率",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块八 生物技术与工程",
+    "topic": "基因工程",
+    "studentLabel": "基因工程",
+    "detail": "基因工程的应用与伦理道德问题",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块六 稳态与调节",
+    "topic": "免疫调节",
+    "studentLabel": "免疫调节",
+    "detail": "特异性免疫",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块六 稳态与调节",
+    "topic": "植物激素",
+    "studentLabel": "植物激素",
+    "detail": "其他植物激素",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块六 稳态与调节",
+    "topic": "神经调节",
+    "studentLabel": "神经调节",
+    "detail": "神经系统的组成",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块六 稳态与调节",
+    "topic": "神经调节",
+    "studentLabel": "神经调节",
+    "detail": "静息电位以及动作电位",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块四 遗传学",
+    "topic": "DNA的分子结构及复制",
+    "studentLabel": "DNA的分子结构及复制",
+    "detail": "DNA复制",
+    "memoryCheckpoint": "第十三关：DNA的复制；基因的表达",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块四 遗传学",
+    "topic": "伴性遗传",
+    "studentLabel": "伴性遗传",
+    "detail": "遗传系谱图分析",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块四 遗传学",
+    "topic": "分离定律",
+    "studentLabel": "分离定律",
+    "detail": "分离定律的判断与计算",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块四 遗传学",
+    "topic": "基因的表达",
+    "studentLabel": "基因的表达",
+    "detail": "基因控制性状的方式",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "生物",
+    "module": "模块四 遗传学",
+    "topic": "自由组合定律",
+    "studentLabel": "自由组合定律",
+    "detail": "自由组合定律的判断与计算",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届生物知识图谱+记背图谱(1)(2).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "七选五",
+    "topic": "匹配关系",
+    "studentLabel": "匹配关系",
+    "detail": "代词指代，名词包含关系",
+    "memoryCheckpoint": "第十四关单词",
+    "frequency": 5,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "七选五",
+    "topic": "匹配句式+功能",
+    "studentLabel": "匹配句式+功能",
+    "detail": "小标题，半句，问答句；总起，概括/总",
+    "memoryCheckpoint": "第十六关单词",
+    "frequency": 5,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "七选五",
+    "topic": "匹配逻辑",
+    "studentLabel": "匹配逻辑",
+    "detail": "句中逻辑，句间逻辑",
+    "memoryCheckpoint": "第十五关单词",
+    "frequency": 5,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "完形",
+    "topic": "动作衔接",
+    "studentLabel": "动作衔接",
+    "detail": "通过已知的 2 个或多个动作进行逻辑",
+    "memoryCheckpoint": "第二十二关单词",
+    "frequency": 5,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "完形",
+    "topic": "动词性质&固定搭配",
+    "studentLabel": "动词性质&固定搭配",
+    "detail": "及物动词，不及物动词;动宾搭配、动介",
+    "memoryCheckpoint": "第二十一关单词",
+    "frequency": 5,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "完形",
+    "topic": "对应原文",
+    "studentLabel": "对应原文",
+    "detail": "原词复现，同义词替换",
+    "memoryCheckpoint": "第十七关单词",
+    "frequency": 5,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "完形",
+    "topic": "感情色彩",
+    "studentLabel": "感情色彩",
+    "detail": "正向，负向，中立感情色彩",
+    "memoryCheckpoint": "第十八关单词",
+    "frequency": 5,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "完形",
+    "topic": "逻辑关系",
+    "studentLabel": "逻辑关系",
+    "detail": "并列，转折，因果，递进",
+    "memoryCheckpoint": "第十九关单词",
+    "frequency": 5,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "语法填空",
+    "topic": "代词&冠词",
+    "studentLabel": "代词&冠词",
+    "detail": "人称代词、指示代词、不定代词;定冠词",
+    "memoryCheckpoint": "第五关单词",
+    "frequency": 5,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "语法填空",
+    "topic": "动词",
+    "studentLabel": "动词",
+    "detail": "谓语动词，非谓语动词，词性转换、主谓",
+    "memoryCheckpoint": "第三关单词",
+    "frequency": 5,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "语法填空",
+    "topic": "连词",
+    "studentLabel": "连词",
+    "detail": "从属连词(定语从句、名词性从句、状语",
+    "memoryCheckpoint": "第六关单词",
+    "frequency": 5,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "阅读",
+    "topic": "推理判断",
+    "studentLabel": "推理判断",
+    "detail": "引语处推断，情感态度推断，文章出处推",
+    "memoryCheckpoint": "第十关单词",
+    "frequency": 5,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "阅读",
+    "topic": "细节理解",
+    "studentLabel": "细节理解",
+    "detail": "细节理解，原词复现、事实信息查找、细",
+    "memoryCheckpoint": "第九关单词",
+    "frequency": 5,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "应用文写作",
+    "topic": "观点类应用文写作",
+    "studentLabel": "观点类应用文写作",
+    "detail": "表达观点、陈述理由及具体措施",
+    "memoryCheckpoint": "第二十四关单词",
+    "frequency": 4,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "语法填空",
+    "topic": "介词",
+    "studentLabel": "介词",
+    "detail": "介词的含义，介词的搭配",
+    "memoryCheckpoint": "第四关单词",
+    "frequency": 4,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "语法填空",
+    "topic": "名词",
+    "studentLabel": "名词",
+    "detail": "名词变复数，名词所有格、名词变动词形",
+    "memoryCheckpoint": "第一关单词",
+    "frequency": 4,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "阅读",
+    "topic": "主旨大意&选标题",
+    "studentLabel": "主旨大意&选标题",
+    "detail": "首尾段找主旨句，科研类找研究结果，倒",
+    "memoryCheckpoint": "第十二关单词",
+    "frequency": 4,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "阅读",
+    "topic": "词义猜测",
+    "studentLabel": "词义猜测",
+    "detail": "找解释，定逻辑，构词法，猜代词",
+    "memoryCheckpoint": "第十一关单词",
+    "frequency": 4,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "语法填空",
+    "topic": "形容词&副词",
+    "studentLabel": "形容词&副词",
+    "detail": "形容词变副词，比较级，最高级，反义词",
+    "memoryCheckpoint": "第二关单词",
+    "frequency": 3,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "应用文写作",
+    "topic": "信息类应用文写作",
+    "studentLabel": "信息类应用文写作",
+    "detail": "活动目的及时间地点、具体活动内容、活",
+    "memoryCheckpoint": "第二十五关单词",
+    "frequency": 2,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "七选五",
+    "topic": "总论",
+    "studentLabel": "总论",
+    "detail": "七选五解题步骤：找出选项关键词、分析",
+    "memoryCheckpoint": "第十三关单词",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "听力",
+    "topic": "听力-短对话",
+    "studentLabel": "听力-短对话",
+    "detail": "场景预测、数字预测、长选项技巧",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "听力",
+    "topic": "听力-长对话&独白",
+    "studentLabel": "听力-长对话&独白",
+    "detail": "长对话解题要领、独白出题特点、概括性",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "听力",
+    "topic": "听力基础能力--语音现象",
+    "studentLabel": "听力基础能力--语音现象",
+    "detail": "弱读、连读、失去爆破",
+    "memoryCheckpoint": "第二十七关单词",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "听力",
+    "topic": "听力真题答案定位填空特训",
+    "studentLabel": "听力真题答案定位填空特训",
+    "detail": "高考真题答案定位填空练习",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "基础语法",
+    "topic": "五大句子类型",
+    "studentLabel": "五大句子类型",
+    "detail": "主谓，主谓宾，主系表、主谓宾宾，主谓",
+    "memoryCheckpoint": "小冲不开启",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "基础语法",
+    "topic": "八大句子成分",
+    "studentLabel": "八大句子成分",
+    "detail": "主语，谓语，宾语，表语、定语，状语，",
+    "memoryCheckpoint": "小冲不开启",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "完形",
+    "topic": "熟词僻义",
+    "studentLabel": "熟词僻义",
+    "detail": "熟悉的单词生僻的意思",
+    "memoryCheckpoint": "第二十关单词",
+    "frequency": 0,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "应用文写作",
+    "topic": "应用文写作思路",
+    "studentLabel": "应用文写作思路",
+    "detail": "应用文写作步骤：审题、整合细节、梳理",
+    "memoryCheckpoint": "第二十三关单词",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "读后续写",
+    "topic": "读后续写动作描写",
+    "studentLabel": "读后续写动作描写",
+    "detail": "连续性动作、伴随动作、先后动作、综合",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "读后续写",
+    "topic": "读后续写句式升级",
+    "studentLabel": "读后续写句式升级",
+    "detail": "无灵主语、独立主格、形容词作状语、倒",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "读后续写",
+    "topic": "读后续写情绪描写",
+    "studentLabel": "读后续写情绪描写",
+    "detail": "常用情绪描写句型和词汇",
+    "memoryCheckpoint": "第二十六关单词",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "阅读",
+    "topic": "总论",
+    "studentLabel": "总论",
+    "detail": "阅读理解三步法：审题找关键词、定位原",
+    "memoryCheckpoint": "第七关单词",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "英语",
+    "module": "阅读",
+    "topic": "长难句",
+    "studentLabel": "长难句",
+    "detail": "如何切分长难句句子成分，找出长难句主",
+    "memoryCheckpoint": "第八关单词",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "英语改-2027届英语知识图谱最终版(1).xlsx"
+  },
+  {
+    "subject": "语文",
+    "module": "作文",
+    "topic": "作文",
+    "studentLabel": "作文",
+    "detail": "作文立意",
+    "memoryCheckpoint": "第十九关《答司马谏议书》 第二十关：",
+    "frequency": 3,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届语文知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "语文",
+    "module": "古诗文阅读",
+    "topic": "名篇名句默写",
+    "studentLabel": "名篇名句默写",
+    "detail": "名篇名句默写",
+    "memoryCheckpoint": "第十五关：《阿房宫赋》 第十六关：《",
+    "frequency": 3,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届语文知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "语文",
+    "module": "古诗文阅读",
+    "topic": "文言文",
+    "studentLabel": "文言文",
+    "detail": "文言文断句",
+    "memoryCheckpoint": "第十关：《谏太宗十思疏》 第十一关：",
+    "frequency": 3,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届语文知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "语文",
+    "module": "古诗文阅读",
+    "topic": "诗歌",
+    "studentLabel": "诗歌",
+    "detail": "诗歌情感",
+    "memoryCheckpoint": "第十三关《师说》 第十四关：《春江花",
+    "frequency": 3,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届语文知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "语文",
+    "module": "现代文阅读",
+    "topic": "信息文",
+    "studentLabel": "信息文",
+    "detail": "信息文选择题",
+    "memoryCheckpoint": "第六关：《屈原列传》 第七关：《涉江",
+    "frequency": 3,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届语文知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "语文",
+    "module": "语言文字运用",
+    "topic": "语言文字运用",
+    "studentLabel": "语言文字运用",
+    "detail": "正确使用词语和成语",
+    "memoryCheckpoint": "第十七关《六国论》 第十八关：《蜀道",
+    "frequency": 3,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届语文知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "语文",
+    "module": "现代文阅读",
+    "topic": "小说 （文学类文本小说散文2选1）+",
+    "studentLabel": "小说 （文学类文本小说散文2选1）+",
+    "detail": "小说人物",
+    "memoryCheckpoint": "第一关：《论语》十二章 第二关：《静",
+    "frequency": 2,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届语文知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "语文",
+    "module": "现代文阅读",
+    "topic": "散文 （文学类文本小说散文2选1）",
+    "studentLabel": "散文 （文学类文本小说散文2选1）",
+    "detail": "散文主旨及含义",
+    "memoryCheckpoint": "第四关：《劝学》 第五关：《离骚》",
+    "frequency": 1,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届语文知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "语文",
+    "module": "作文",
+    "topic": "作文",
+    "studentLabel": "作文",
+    "detail": "作文素材",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届语文知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "语文",
+    "module": "作文",
+    "topic": "作文",
+    "studentLabel": "作文",
+    "detail": "作文结构",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届语文知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "语文",
+    "module": "古诗文阅读",
+    "topic": "文言文",
+    "studentLabel": "文言文",
+    "detail": "文言文实词",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届语文知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "语文",
+    "module": "古诗文阅读",
+    "topic": "文言文",
+    "studentLabel": "文言文",
+    "detail": "文言文特殊句式+翻译",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届语文知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "语文",
+    "module": "古诗文阅读",
+    "topic": "文言文",
+    "studentLabel": "文言文",
+    "detail": "文言文简答题",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届语文知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "语文",
+    "module": "古诗文阅读",
+    "topic": "文言文",
+    "studentLabel": "文言文",
+    "detail": "文言文虚词",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届语文知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "语文",
+    "module": "古诗文阅读",
+    "topic": "诗歌",
+    "studentLabel": "诗歌",
+    "detail": "诗歌形象",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届语文知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "语文",
+    "module": "古诗文阅读",
+    "topic": "诗歌",
+    "studentLabel": "诗歌",
+    "detail": "诗歌手法",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届语文知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "语文",
+    "module": "现代文阅读",
+    "topic": "信息文",
+    "studentLabel": "信息文",
+    "detail": "信息文简答题",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届语文知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "语文",
+    "module": "现代文阅读",
+    "topic": "小说 （文学类文本小说散文2选1）+",
+    "studentLabel": "小说 （文学类文本小说散文2选1）+",
+    "detail": "小说情节",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届语文知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "语文",
+    "module": "现代文阅读",
+    "topic": "小说 （文学类文本小说散文2选1）+",
+    "studentLabel": "小说 （文学类文本小说散文2选1）+",
+    "detail": "小说环境",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届语文知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "语文",
+    "module": "现代文阅读",
+    "topic": "小说 （文学类文本小说散文2选1）+",
+    "studentLabel": "小说 （文学类文本小说散文2选1）+",
+    "detail": "戏剧",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      false,
+      true
+    ],
+    "sourceFile": "2027届语文知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "语文",
+    "module": "现代文阅读",
+    "topic": "散文 （文学类文本小说散文2选1）",
+    "studentLabel": "散文 （文学类文本小说散文2选1）",
+    "detail": "散文结构",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届语文知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "语文",
+    "module": "现代文阅读",
+    "topic": "散文 （文学类文本小说散文2选1）",
+    "studentLabel": "散文 （文学类文本小说散文2选1）",
+    "detail": "散文赏析",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届语文知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "语文",
+    "module": "语言文字运用",
+    "topic": "语言文字运用",
+    "studentLabel": "语言文字运用",
+    "detail": "修辞手法",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      false,
+      true,
+      true
+    ],
+    "sourceFile": "2027届语文知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "语文",
+    "module": "语言文字运用",
+    "topic": "语言文字运用",
+    "studentLabel": "语言文字运用",
+    "detail": "句子的衔接复位",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届语文知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "语文",
+    "module": "语言文字运用",
+    "topic": "语言文字运用",
+    "studentLabel": "语言文字运用",
+    "detail": "图文转换",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届语文知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "语文",
+    "module": "语言文字运用",
+    "topic": "语言文字运用",
+    "studentLabel": "语言文字运用",
+    "detail": "标点符号",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届语文知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "语文",
+    "module": "语言文字运用",
+    "topic": "语言文字运用",
+    "studentLabel": "语言文字运用",
+    "detail": "病句",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届语文知识图谱+记背图谱.xlsx"
+  },
+  {
+    "subject": "语文",
+    "module": "语言文字运用",
+    "topic": "语言文字运用",
+    "studentLabel": "语言文字运用",
+    "detail": "补写句子",
+    "memoryCheckpoint": "",
+    "frequency": 0,
+    "mastery": [
+      true,
+      true,
+      true
+    ],
+    "sourceFile": "2027届语文知识图谱+记背图谱.xlsx"
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "name": "learning-style-assessment-v2",
+  "version": "1.0.0",
+  "type": "module",
+  "packageManager": "pnpm@11.9.0",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node --test",
+    "test:sqlite": "node --test test/sqlite-smoke.test.js",
+    "validate:questions": "node scripts/validate-question-bank.mjs"
+  },
+  "dependencies": {
+    "adm-zip": "0.5",
+    "better-sqlite3": "11",
+    "express": "5",
+    "fast-xml-parser": "4"
+  }
+}
