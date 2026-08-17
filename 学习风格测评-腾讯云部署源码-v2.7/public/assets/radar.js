@@ -61,11 +61,11 @@ export function drawRadar(canvas, scores) {
       return { x: Math.cos(angle) * distance, y: Math.sin(angle) * distance };
     });
     tracePolygon(context, ring, centerX, centerY);
-    context.strokeStyle = percent === 100 ? "#cbbfae" : "#ded3c2";
+    context.strokeStyle = percent === 100 ? "#cbbfae" : "#ddd3c1";
     context.stroke();
   }
 
-  context.strokeStyle = "#ded3c2";
+  context.strokeStyle = "#d8cebd";
   for (let index = 0; index < RADAR_AXES.length; index += 1) {
     const angle = -Math.PI / 2 + index * Math.PI / 2;
     context.beginPath();
@@ -75,8 +75,8 @@ export function drawRadar(canvas, scores) {
   }
 
   tracePolygon(context, geometry.points, centerX, centerY);
-  context.fillStyle = "rgb(23 107 112 / 18%)";
-  context.strokeStyle = "#176b70";
+  context.fillStyle = "rgb(17 127 131 / 18%)";
+  context.strokeStyle = "#117f83";
   context.lineWidth = 3;
   context.fill();
   context.stroke();
@@ -84,11 +84,11 @@ export function drawRadar(canvas, scores) {
   geometry.points.forEach(({ x, y }) => {
     context.beginPath();
     context.arc(centerX + x, centerY + y, 4, 0, Math.PI * 2);
-    context.fillStyle = "#e76f51";
+    context.fillStyle = "#d96f42";
     context.fill();
   });
 
-  context.fillStyle = "#17202a";
+  context.fillStyle = "#151f2a";
   context.font = '700 14px -apple-system, BlinkMacSystemFont, "PingFang SC", sans-serif';
   context.textAlign = "center";
   context.textBaseline = "middle";

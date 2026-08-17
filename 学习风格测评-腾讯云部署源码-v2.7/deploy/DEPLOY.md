@@ -18,7 +18,7 @@
 ```bash
 export DOMAIN="assessment.example.com"
 export EMAIL="admin@example.com"
-export REPO_URL="https://github.com/wangrui967033-droid/learning-style-assessment.git"
+export REPO_URL="https://github.com/wangrui967033-droid/learning-style-assessment2.git"
 ```
 
 ## 2. 安装系统依赖和 Node.js
@@ -72,26 +72,23 @@ sudo git clone "$REPO_URL" /opt/learning-style-assessment-v2
 
 ## 4. 创建生产环境文件
 
-分别生成两个只使用一次的随机导出密钥：
+生成只使用一次的随机管理密钥：
 
 ```bash
 ADMIN_TOKEN="$(openssl rand -hex 32)"
-CONTACT_TOKEN="$(openssl rand -hex 32)"
 sudo install -o root -g root -m 0600 /dev/null /etc/learning-style-assessment-v2.env
 sudo tee /etc/learning-style-assessment-v2.env >/dev/null <<EOF
 NODE_ENV=production
 PORT=3000
 DATABASE_PATH=/var/lib/learning-style-assessment/assessment.sqlite
 ADMIN_EXPORT_TOKEN=${ADMIN_TOKEN}
-CONTACT_EXPORT_TOKEN=${CONTACT_TOKEN}
 PUBLIC_BASE_URL=https://${DOMAIN}
-ASSESSMENT_VERSION=v2.7.1
 EOF
-unset ADMIN_TOKEN CONTACT_TOKEN
+unset ADMIN_TOKEN
 sudo chmod 0600 /etc/learning-style-assessment-v2.env
 ```
 
-不要把该文件内容粘贴到工单、聊天或 Git 仓库。`ADMIN_EXPORT_TOKEN` 只授权常规分析数据，`CONTACT_EXPORT_TOKEN` 只授权联系信息，两者必须不同。轮换时单独替换对应令牌并重启服务，不要复用另一个令牌。
+不要把该文件内容粘贴到工单、聊天或 Git 仓库。需要轮换管理密钥时，修改 `ADMIN_EXPORT_TOKEN` 后重启服务。
 
 ## 5. 安装并启动 systemd 服务
 
@@ -173,11 +170,9 @@ sudo chmod 0644 /etc/cron.d/learning-style-assessment-backup
 
 脚本使用 SQLite `.backup` 获取一致快照，并对快照执行完整性检查。文件保留 30 天；它不会直接 `cp` 正在运行的数据库。云盘故障会同时影响数据库和本机备份，因此还应把备份加密同步到独立 COS 存储桶，并为 COS 配置最小权限和生命周期规则。
 
-## 8. 导出 CSV
+## 8. 导出匿名 CSV
 
-### 8.1 常规分析 CSV
-
-常规分析接口只接受生产环境中的 `ADMIN_EXPORT_TOKEN`。不要把 Token 写进命令历史；下面从 root-only 环境文件临时读取：
+导出接口只接受生产环境中的 Bearer Token。不要把 Token 写进命令历史；下面从 root-only 环境文件临时读取：
 
 ```bash
 DOMAIN="assessment.example.com"
@@ -191,25 +186,7 @@ unset ADMIN_TOKEN
 ls -lh /tmp/learning-style-assessment-*.csv
 ```
 
-常规分析 CSV 只含匿名编号、作答和分析字段，不含姓名、手机号、内部会话 ID 或报告访问令牌，但仍应按敏感教育数据管理：通过受控渠道下载，用完后从服务器 `/tmp` 删除，不要公开分享。
-
-### 8.2 联系信息 CSV
-
-联系信息接口只接受独立的 `CONTACT_EXPORT_TOKEN`，`ADMIN_EXPORT_TOKEN` 不能访问该接口。导出前登记用途、负责人和删除日期：
-
-```bash
-DOMAIN="assessment.example.com"
-read -r CONTACT_TOKEN < <(sudo sed -n 's/^CONTACT_EXPORT_TOKEN=//p' /etc/learning-style-assessment-v2.env)
-umask 0077
-curl --fail --silent --show-error \
-  -H "Authorization: Bearer ${CONTACT_TOKEN}" \
-  "https://${DOMAIN}/api/admin/contacts.csv" \
-  -o "/tmp/learning-style-contacts-$(date -u +%Y%m%dT%H%M%SZ).csv"
-unset CONTACT_TOKEN
-ls -lh /tmp/learning-style-contacts-*.csv
-```
-
-联系信息 CSV 仅含匿名编号、姓名、完整手机号、年级、目标学科和会话开始时间。它属于可识别身份数据，必须限制访问、使用受控传输和存储位置，并在登记期限结束后删除。
+CSV 含匿名测评数据，但仍应按敏感教育数据管理：通过受控渠道下载，用完后从服务器 `/tmp` 删除，不要公开分享。
 
 ## 9. 从备份恢复
 
@@ -258,13 +235,13 @@ curl --fail --silent --show-error http://127.0.0.1:3000/api/health
 
 - 3000 端口仅允许本机访问，不在腾讯云安全组中开放，并由 systemd 网络限制和 UFW 双重阻断外部连接。
 - `lsa` 是无登录 shell 的专用用户；应用代码由 root 管理，只有 `/var/lib/learning-style-assessment` 可写。
-- `/etc/learning-style-assessment-v2.env` 必须保持 `0600 root:root`，两类导出 Token 独立且定期轮换。
-- 两类管理 CSV 接口仅通过 HTTPS 使用；不要在 URL 查询参数中传 Token，也不要交叉使用两个 Token。
+- `/etc/learning-style-assessment-v2.env` 必须保持 `0600 root:root`，管理 Token 定期轮换。
+- 管理 CSV 接口仅通过 HTTPS 使用；不要在 URL 查询参数中传 Token。
 - 每月安装 Ubuntu 安全更新，并关注 Node.js LTS、Nginx 和 SQLite 安全公告。
 - 定期执行 `sudo certbot renew --dry-run`、恢复演练和备份完整性抽查。
 - SQLite 适合单实例部署。不要同时启动多个写入同一数据库文件的应用进程。
 - 本机 30 天备份不是异地容灾。至少保留一份加密、跨介质备份，并限制 COS 访问权限。
-- Nginx 使用仓库中不含客户端 IP 的 `privacy` 日志格式；常规分析 CSV 不含姓名或手机号。联系信息 CSV 和数据库备份包含身份信息，必须按最小范围授权、加密保管并登记用途与删除期限。
+- Nginx 使用仓库中不含客户端 IP 的 `privacy` 日志格式；CSV 和备份也不得包含姓名、手机号、学校或请求 IP，导出文件按最小范围授权。
 - 发现密钥或数据泄露时，立即轮换 Token、吊销相关访问权限，并保留审计记录。
 
 ## 12. 故障排查

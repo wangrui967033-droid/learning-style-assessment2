@@ -1,7 +1,7 @@
 const COLUMNS = [
-  "anonymousCode", "grade", "scoreBand", "specialtyDirection",
-  "foreignLanguage", "targetSubject", "targetSubjectScore", "targetSubjectFullScore",
-  "scoreLevel", "taskUnitId", "learningFocus", "learningTask", "examSystem", "assessmentVersion",
+  "anonymousCode", "studentName", "contact", "grade", "scoreBand", "specialtyDirection",
+  "foreignLanguage", "targetSubject", "learningLevel", "assessmentVersion",
+  "questionBankVersion", "scoringVersion",
   "startedAt", "submittedAt", "questionId", "answerType", "sectionCode",
   "rawResponse", "scoredResponse", "direction", "scenarioWeight", "process",
   "subdimension", "scenarioType", "preferenceCode", "responseTimeMs", "answeredAt",
@@ -11,7 +11,6 @@ const COLUMNS = [
   "timelyFeedback", "metacognition", "durationSeconds", "fitRating",
   "selfIdentifiedPreference", "helpfulSection", "confusingText", "comment"
 ];
-const CONTACT_COLUMNS = ["anonymousCode", "studentName", "phoneNumber", "grade", "targetSubject", "startedAt"];
 
 function parseJson(value, fallback = {}) {
   if (typeof value !== "string" || value.length === 0) return fallback;
@@ -25,15 +24,6 @@ function parseJson(value, fallback = {}) {
 function readIndex(preferences, code) {
   const value = preferences?.[code];
   return typeof value === "object" && value !== null ? value.index : value;
-}
-
-function readScienceTotal(science, ...keys) {
-  for (const key of keys) {
-    const value = science?.[key];
-    if (Number.isFinite(value)) return value;
-    if (Number.isFinite(value?.total)) return value.total;
-  }
-  return undefined;
 }
 
 function academicLifeDifference(preferences) {
@@ -50,23 +40,19 @@ function academicLifeDifference(preferences) {
 function normalizedRow(row) {
   const preferences = parseJson(row.preferenceScoresJson);
   const science = parseJson(row.scienceScoresJson);
-  const report = parseJson(row.reportJson);
-  const subjectPlan = report?.studentReport?.subjectPlan;
   return {
     anonymousCode: row.anonymousCode,
+    studentName: row.studentName,
+    contact: row.contact,
     grade: row.grade,
     scoreBand: row.scoreBand,
     specialtyDirection: row.specialtyDirection,
     foreignLanguage: row.foreignLanguage,
     targetSubject: row.targetSubject,
-    targetSubjectScore: row.targetSubjectScore,
-    targetSubjectFullScore: row.targetSubjectFullScore,
-    scoreLevel: row.scoreLevel,
-    taskUnitId: row.taskUnitId,
-    learningFocus: row.learningFocus,
-    learningTask: row.learningTask,
-    examSystem: row.examSystem ?? subjectPlan?.examSystem ?? subjectPlan?.taskUnit?.examSystemLabel,
+    learningLevel: row.learningLevel,
     assessmentVersion: row.assessmentVersion,
+    questionBankVersion: row.questionBankVersion,
+    scoringVersion: row.scoringVersion,
     startedAt: row.startedAt,
     submittedAt: row.submittedAt,
     questionId: row.questionId,
@@ -92,11 +78,11 @@ function normalizedRow(row) {
     resultType: row.resultType,
     primaryPreference: row.primaryPreference,
     secondaryPreference: row.secondaryPreference,
-    activeRecall: readScienceTotal(science, "active_recall", "retrieval"),
-    spacedRepetition: readScienceTotal(science, "spaced_repetition"),
-    deliberatePractice: readScienceTotal(science, "deliberate_practice"),
-    timelyFeedback: readScienceTotal(science, "timely_feedback"),
-    metacognition: readScienceTotal(science, "metacognition"),
+    activeRecall: science.active_recall ?? science.retrieval,
+    spacedRepetition: science.spaced_repetition,
+    deliberatePractice: science.deliberate_practice,
+    timelyFeedback: science.timely_feedback,
+    metacognition: science.metacognition,
     durationSeconds: row.durationSeconds,
     fitRating: row.fitRating,
     selfIdentifiedPreference: row.selfIdentifiedPreference,
@@ -123,12 +109,4 @@ export function buildCsv(rows) {
   return `\ufeff${lines.join("\r\n")}\r\n`;
 }
 
-export function buildContactCsv(rows) {
-  const lines = [CONTACT_COLUMNS.join(",")];
-  for (const row of rows) {
-    lines.push(CONTACT_COLUMNS.map((column) => escapeCell(row?.[column])).join(","));
-  }
-  return `\ufeff${lines.join("\r\n")}\r\n`;
-}
-
-export { COLUMNS, CONTACT_COLUMNS };
+export { COLUMNS };

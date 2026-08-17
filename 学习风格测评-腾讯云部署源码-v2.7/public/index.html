@@ -3,37 +3,33 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <meta name="theme-color" content="#fbf7ef">
-  <title>学习风格测评｜非凡教育</title>
+  <meta name="theme-color" content="#f4f0e6">
+  <title>学习模式定位｜非凡教育</title>
   <link rel="stylesheet" href="/assets/styles.css">
   <script type="module" src="/assets/assessment.js"></script>
 </head>
-<body class="assessment-page">
+<body>
   <header class="brand-bar">
     <div class="brand-lockup">
       <span class="brand-en">FEIFAN EDUCATION</span>
-      <span class="brand-cn">文化课学习风格测评</span>
+      <span class="brand-cn">文化课学习模式定位</span>
     </div>
   </header>
 
   <main class="page-shell">
     <section id="startView" class="view is-active" aria-labelledby="startTitle">
       <div class="hero-panel">
-        <p class="eyebrow">LEARNING STYLE ASSESSMENT</p>
-        <h1 id="startTitle">学习风格<br>测评</h1>
-        <p class="hero-lead">回顾真实学习场景，看清你通常怎样接收、整理和运用信息，并获得目标学科的具体建议。</p>
-
+        <p class="eyebrow">LEARNING MODE POSITIONING</p>
+        <h1 id="startTitle">学习模式定位</h1>
+        <p class="hero-lead">从平时真实的学习反应出发，找到自己更顺手的学习优势；遇到学习任务时，知道可以从哪儿下手。</p>
         <div class="fact-row" aria-label="测评概况">
-          <div><strong>8-10 分钟</strong><span>预计完成</span></div>
-          <div><strong>42 + 可选 4 题</strong><span>作答题量</span></div>
+          <div><strong>6–8分钟</strong><span>预计完成</span></div>
+          <div><strong>20题</strong><span>可多选</span></div>
         </div>
-
         <div class="notice-block">
           <h2>作答前请知道</h2>
-          <p>测评没有标准答案。请按平时最常出现的真实情况作答，不需要选择“看起来更正确”的选项。</p>
-          <p>结果描述的是当前学习入口，不评价能力。</p>
+          <p>每题可以选一个，也可以选几个。没有标准答案，选最贴近你平时会做的。</p>
         </div>
-
         <button id="startButton" class="primary-button" type="button">开始测评</button>
         <button id="resumeButton" class="text-button" type="button" hidden>继续上次作答</button>
       </div>
@@ -42,39 +38,32 @@
     <section id="basicView" class="view" aria-labelledby="basicTitle" hidden>
       <div class="section-heading">
         <span class="section-number">01</span>
-        <div>
-          <p class="eyebrow">BASIC INFORMATION</p>
-          <h1 id="basicTitle">基本信息</h1>
-          <p>用于生成更贴近当前阶段和目标学科的建议。</p>
-        </div>
+        <div><p class="eyebrow">BASIC INFORMATION</p><h1 id="basicTitle">先确定这次要解决什么</h1><p>一次只生成一门学科的报告。</p></div>
       </div>
-
       <form id="basicForm" novalidate>
         <div class="form-panel identity-panel">
-          <div class="identity-grid">
-            <label class="text-field" for="studentName">
-              <span>姓名</span>
-              <input id="studentName" name="studentName" type="text" autocomplete="name" maxlength="30" required>
+          <p class="form-question">先留下你的基本信息</p>
+          <p class="field-help">姓名和联系方式会显示在报告中，方便你保存和查找自己的结果。</p>
+          <div class="text-field-grid">
+            <label class="text-label" for="studentName">姓名
+              <input id="studentName" name="studentName" type="text" maxlength="50" autocomplete="name" placeholder="请输入姓名" required>
             </label>
-            <label class="text-field" for="phoneNumber">
-              <span>手机号</span>
-              <input id="phoneNumber" name="phoneNumber" type="tel" autocomplete="tel" inputmode="numeric" maxlength="11" pattern="1[3-9][0-9]{9}" required>
+            <label class="text-label" for="contact">联系方式
+              <input id="contact" name="contact" type="text" maxlength="100" autocomplete="tel" placeholder="请输入手机号或微信号" required>
             </label>
           </div>
         </div>
-
-        <div class="form-panel choice-panel" role="group" aria-labelledby="gradeLabel">
-          <h2 id="gradeLabel" class="panel-label">你现在读几年级？</h2>
+        <fieldset class="form-panel">
+          <legend class="sr-only">你目前所在年级？</legend><p class="form-question">你目前所在年级？</p>
           <div class="choice-grid compact">
             <label><input type="radio" name="grade" value="高一" required><span>高一</span></label>
             <label><input type="radio" name="grade" value="高二"><span>高二</span></label>
             <label><input type="radio" name="grade" value="高三"><span>高三</span></label>
             <label><input type="radio" name="grade" value="高复"><span>高复</span></label>
           </div>
-        </div>
-
-        <div class="form-panel choice-panel" role="group" aria-labelledby="specialtyLabel">
-          <h2 id="specialtyLabel" class="panel-label">你学的是什么专业方向？</h2>
+        </fieldset>
+        <fieldset class="form-panel">
+          <legend class="sr-only">你的专业方向？</legend><p class="form-question">你的专业方向？</p>
           <div class="choice-grid compact">
             <label><input type="radio" name="specialtyDirection" value="美术设计" required><span>美术设计</span></label>
             <label><input type="radio" name="specialtyDirection" value="音乐"><span>音乐</span></label>
@@ -84,60 +73,28 @@
             <label><input type="radio" name="specialtyDirection" value="体育"><span>体育</span></label>
             <label><input type="radio" name="specialtyDirection" value="其他"><span>其他</span></label>
           </div>
-        </div>
-
-        <div class="form-panel choice-panel" role="group" aria-labelledby="scoreBandLabel">
-          <h2 id="scoreBandLabel" class="panel-label">你最近一次文化课考了多少分？</h2>
-          <div class="choice-grid compact">
-            <label><input type="radio" name="scoreBand" value="350以下" required><span>350以下</span></label>
-            <label><input type="radio" name="scoreBand" value="350至400"><span>350至400</span></label>
-            <label><input type="radio" name="scoreBand" value="400至450"><span>400至450</span></label>
-            <label><input type="radio" name="scoreBand" value="450至500"><span>450至500</span></label>
-            <label><input type="radio" name="scoreBand" value="500至550"><span>500至550</span></label>
-            <label><input type="radio" name="scoreBand" value="550至600"><span>550至600</span></label>
-            <label><input type="radio" name="scoreBand" value="600以上"><span>600以上</span></label>
-          </div>
-        </div>
-
-        <div class="form-panel choice-panel" role="group" aria-labelledby="foreignLanguageLabel">
-          <h2 id="foreignLanguageLabel" class="panel-label">你学哪门外语？</h2>
+        </fieldset>
+        <fieldset class="form-panel">
+          <legend class="sr-only">你的外语科目？</legend><p class="form-question">你的外语科目？</p>
           <div class="choice-grid compact">
             <label><input type="radio" name="foreignLanguage" value="英语" required><span>英语</span></label>
             <label><input type="radio" name="foreignLanguage" value="日语"><span>日语</span></label>
             <label><input type="radio" name="foreignLanguage" value="其他"><span>其他</span></label>
           </div>
-        </div>
-
+        </fieldset>
         <div class="form-panel">
-          <label class="select-label" for="targetSubject">你现在最想先提高哪一门？</label>
-          <p class="field-help">选一门就好，报告会围绕它给建议。</p>
-          <select id="targetSubject" name="targetSubject" required>
-            <option value="">请先选择外语科目</option>
-          </select>
+          <label class="select-label" for="targetSubject">这次最想解决哪一门学科？</label>
+          <p class="field-help">这次报告只会围绕你选的这一门学科给建议。</p>
+          <select id="targetSubject" name="targetSubject" required><option value="">请先选择外语科目</option></select>
         </div>
-
-        <div class="form-panel">
-          <label class="text-field" for="targetSubjectScore">
-            <span>最近一次目标学科成绩</span>
-            <small id="targetSubjectScoreHelp" class="field-help">请先选择目标学科。</small>
-            <div class="score-input-row">
-              <input id="targetSubjectScore" name="targetSubjectScore" type="number" min="0" step="0.1" required inputmode="decimal">
-              <span id="targetSubjectScoreUnit" class="score-unit">/ -- 分</span>
-            </div>
-          </label>
-        </div>
-
-        <div class="form-panel choice-panel" role="group" aria-labelledby="learningFocusLabel">
-          <h2 id="learningFocusLabel" class="panel-label">这门课，你最想先解决什么？</h2>
-          <p class="field-help">选一个你现在最想先改变的地方。</p>
-          <div class="choice-grid focus-grid">
-            <label><input type="radio" name="learningFocus" value="learning" required><span><strong>把新知识弄懂</strong><small>听过、看过，但自己说不清</small></span></label>
-            <label><input type="radio" name="learningFocus" value="memory"><span><strong>记住并复习</strong><small>学过一阵就忘，复习时想不起来</small></span></label>
-            <label><input type="radio" name="learningFocus" value="practice"><span><strong>会做、会应用</strong><small>听懂了，遇到题还是不会用</small></span></label>
-            <label><input type="radio" name="learningFocus" value="improve"><span><strong>把错题补起来</strong><small>同一类问题总是反复出现</small></span></label>
+        <fieldset class="form-panel">
+          <legend class="sr-only">这门学科现在处于哪个阶段？</legend><p class="form-question">这门学科现在处于哪个阶段？</p>
+          <div class="choice-grid level-grid">
+            <label><input type="radio" name="learningLevel" value="基础巩固" required><span><strong>基础巩固</strong><small>基础知识还有缺口，基础题容易丢分</small></span></label>
+            <label><input type="radio" name="learningLevel" value="稳定提升"><span><strong>稳定提升</strong><small>基础题大多会做，想减少错误、突破中档题</small></span></label>
+            <label><input type="radio" name="learningLevel" value="冲刺提高"><span><strong>冲刺提高</strong><small>基础和中档题较稳定，想提升速度和综合题得分</small></span></label>
           </div>
-        </div>
-
+        </fieldset>
         <p id="basicError" class="form-error" role="alert" hidden></p>
         <div class="form-actions">
           <button id="basicBackButton" class="secondary-button" type="button">返回</button>
@@ -147,19 +104,13 @@
     </section>
 
     <section id="assessmentView" class="view" aria-labelledby="assessmentTitle" hidden>
-      <h1 id="assessmentTitle" class="sr-only">学习风格测评题目</h1>
+      <h1 id="assessmentTitle" class="sr-only">学习模式定位题目</h1>
       <div class="progress-panel">
-        <div class="progress-copy">
-          <span id="completionText">已完成 0 / 42</span>
-        </div>
-        <div id="progressBar" class="progress-track" role="progressbar" aria-label="测评完成进度" aria-valuemin="0" aria-valuemax="42" aria-valuenow="0">
-          <span id="progressFill"></span>
-        </div>
+        <div class="progress-copy"><span id="completionText">已完成 0 / 20</span><span id="pageText">第 1 题</span></div>
+        <div id="progressBar" class="progress-track" role="progressbar" aria-label="测评完成进度" aria-valuemin="0" aria-valuemax="20" aria-valuenow="0"><span id="progressFill"></span></div>
       </div>
-
       <div id="questionList" class="question-list" aria-live="polite"></div>
-
-      <p id="pageError" class="form-error" role="alert" hidden>请先完成本页全部题目。</p>
+      <p id="pageError" class="form-error" role="alert" hidden>请至少选一项最像你平时做法的选项。</p>
       <div class="assessment-actions">
         <button id="previousButton" class="secondary-button" type="button">上一页</button>
         <button id="nextButton" class="primary-button" type="button">下一页</button>
@@ -168,21 +119,13 @@
 
     <section id="submitErrorView" class="view" aria-labelledby="submitErrorTitle" hidden>
       <div class="hero-panel compact-hero">
-        <p class="eyebrow coral">SUBMISSION PAUSED</p>
-        <h1 id="submitErrorTitle">报告暂时没有生成</h1>
-        <p class="hero-lead">你的作答已经保存在本机。请检查网络后重新提交，不需要再次答题。</p>
+        <p class="eyebrow coral">SUBMISSION PAUSED</p><h1 id="submitErrorTitle">报告暂时没有生成</h1>
+        <p class="hero-lead">你的作答已经保存在本机。检查网络后可以继续，不需要重新答题。</p>
         <button id="retryButton" class="primary-button" type="button">重新提交</button>
       </div>
     </section>
   </main>
-
-  <div id="loadingOverlay" class="loading-overlay" role="status" aria-live="polite" hidden>
-    <div class="loading-box">
-      <span class="spinner" aria-hidden="true"></span>
-      <p id="loadingText">正在准备测评...</p>
-    </div>
-  </div>
-
+  <div id="loadingOverlay" class="loading-overlay" role="status" aria-live="polite" hidden><div class="loading-box"><span class="spinner" aria-hidden="true"></span><p id="loadingText">正在准备测评...</p></div></div>
   <noscript>请开启浏览器 JavaScript 后完成测评。</noscript>
 </body>
 </html>

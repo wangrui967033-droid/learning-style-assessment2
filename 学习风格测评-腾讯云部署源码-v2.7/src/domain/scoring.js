@@ -1,36 +1,20 @@
 const REVERSE_DIRECTIONS = new Set(["negative", "reverse"]);
 
 function createAccumulator() {
-  return { weightedSum: 0, weightSum: 0, scores: [] };
+  return { weightedSum: 0, weightSum: 0 };
 }
 
 function addScore(accumulator, scoredValue, weight) {
   accumulator.weightedSum += scoredValue * weight;
   accumulator.weightSum += weight;
-  accumulator.scores.push(scoredValue);
 }
 
-function summarize(accumulator, indexFor) {
+function summarize(accumulator) {
   const weightedMean = accumulator.weightedSum / accumulator.weightSum;
   return {
     weightedMean,
-    index: indexFor ? indexFor(accumulator.weightedSum) : meanIndex(weightedMean)
+    index: Math.round((weightedMean - 1) * 25)
   };
-}
-
-export function evidenceLevel(total) {
-  if (total >= 2 && total <= 4) return "当前证据较少";
-  if (total >= 5 && total <= 7) return "在部分场景出现";
-  if (total >= 8 && total <= 10) return "表现较明显";
-  throw new RangeError("two-item evidence total must be between 2 and 10");
-}
-
-function preferenceIndex(weightedRaw) {
-  return Number((((weightedRaw - 7) / 28) * 100).toFixed(1));
-}
-
-function meanIndex(weightedMean) {
-  return Math.round((weightedMean - 1) * 25);
 }
 
 function addGroupedScore(groups, key, scoredValue, weight) {
@@ -51,8 +35,13 @@ function addMechanismEvidence(groups, key, scoredValue) {
 
 function summarizeMechanismEvidence(groups) {
   return Object.fromEntries([...groups.entries()].map(([key, scores]) => {
-    const total = scores.reduce((sum, score) => sum + score, 0);
-    return [key, { total, level: evidenceLevel(total), itemCount: scores.length }];
+    const highCount = scores.filter((score) => score >= 4).length;
+    const lowCount = scores.filter((score) => score <= 2).length;
+    let state = "partial";
+    if (highCount === 2) state = "prominent";
+    else if (highCount === 1 && lowCount === 1) state = "task_dependent";
+    else if (lowCount === 2) state = "limited";
+    return [key, { state, itemCount: scores.length, highCount, lowCount }];
   }));
 }
 
@@ -143,7 +132,7 @@ export function scoreAssessment({ answers, questions }) {
   }
 
   const preference = Object.fromEntries([...preferenceGroups.entries()].map(([key, groups]) => [key, {
-    ...summarize(groups.global, preferenceIndex),
+    ...summarize(groups.global),
     academic: groups.academic.weightSum ? summarize(groups.academic) : undefined,
     life: groups.life.weightSum ? summarize(groups.life) : undefined,
     mechanisms: summarizeMechanismEvidence(groups.mechanisms)
@@ -156,16 +145,7 @@ export function scoreAssessment({ answers, questions }) {
   return {
     preference,
     process: summarizeGroups(processGroups),
-    science: Object.fromEntries([...scienceGroups.entries()].map(([strategy, accumulator]) => {
-      const scores = accumulator.scores;
-      const total = accumulator.weightedSum;
-      return [strategy, {
-        total,
-        level: evidenceLevel(total),
-        lowItemCount: scores.filter((score) => score <= 2).length,
-        itemCount: scores.length
-      }];
-    })),
+    science: Object.fromEntries([...scienceGroups.entries()].map(([strategy, accumulator]) => [strategy, accumulator.weightedSum])),
     answerDetails
   };
 }

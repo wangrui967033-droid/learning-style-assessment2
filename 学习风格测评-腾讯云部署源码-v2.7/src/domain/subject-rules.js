@@ -261,58 +261,28 @@ export const SUBJECT_SCENES = Object.freeze({
   }),
   技术: Object.freeze({
     learning: Object.freeze({
-      scene: "当前技术设计任务、操作流程、图示和要求说明",
-      task: "找出设计目标、限制条件和操作顺序，说明每一步为什么这样安排",
-      output: "一份技术要求标记和流程说明稿",
-      check: "不看示例也能说清设计目标、限制条件和主要步骤"
+      scene: "当前技术课中的作品示例、操作流程和任务要求",
+      task: "先看一个完成示例，圈出要做的功能、顺序和限制，再自己完成一个小步骤",
+      output: "一份标出关键步骤和要求的操作记录或作品草稿",
+      check: "不看示例时能说清先做什么、为什么这样做，并独立完成关键步骤"
     }),
     memory: Object.freeze({
-      scene: "当前技术概念、操作规则、步骤图和关键词",
-      task: "遮住材料后写出关键步骤和使用条件，再对照补漏",
-      output: "一份技术步骤恢复稿和条件清单",
-      check: "步骤顺序和使用条件完整，能够逐项对照原材料"
+      scene: "当前技术课中的工具名称、操作步骤、规则和安全要求",
+      task: "遮住材料后写出关键步骤和规则，再打开材料补全",
+      output: "一张关键步骤和规则的回想清单",
+      check: "能按正确顺序写出主要步骤，并不遗漏关键限制"
     }),
     practice: Object.freeze({
-      scene: "一道新的技术设计、流程或分析任务",
-      task: "根据设计要求选择材料或步骤，完成方案并说明每一步的依据",
-      output: "一份包含设计要求、步骤和依据的技术作答",
-      check: "方案回应全部要求，步骤合理，关键选择能够说明依据"
+      scene: "一个新的技术制作、编程、设计或操作练习",
+      task: "先列出目标和限制，独立完成一个功能或作品步骤，再检查哪里需要调整",
+      output: "一份带步骤说明的操作结果或作品版本",
+      check: "结果能完成目标，步骤符合要求，并能说清一处调整原因"
     }),
     improve: Object.freeze({
-      scene: "一份已有批注的技术设计或流程作答",
-      task: "对照反馈定位遗漏的要求或不合理步骤，再独立修改方案",
-      output: "一份技术错因说明和修订后的方案",
-      check: "修订稿回应反馈，设计要求、步骤与依据保持一致"
+      scene: "一份已经获得反馈的技术作品、操作记录或程序结果",
+      task: "找出第一个不符合要求的地方，说明原因后独立修改并重新测试",
+      output: "一份问题说明和修改后的作品或操作记录",
+      check: "修改后能通过对应检查，原来的问题不再出现"
     })
   })
 });
-
-const LANGUAGE_STRATEGY_PRIORITY = Object.freeze([
-  "retrieval", "spaced_repetition", "timely_feedback", "metacognition", "deliberate_practice"
-]);
-
-const SCIENCE_STRATEGY_PRIORITY = Object.freeze([
-  "deliberate_practice", "timely_feedback", "retrieval", "metacognition", "spaced_repetition"
-]);
-
-export const SUBJECT_STRATEGY_PRIORITY = Object.freeze({
-  语文: Object.freeze(["retrieval", "metacognition", "timely_feedback", "spaced_repetition", "deliberate_practice"]),
-  数学: SCIENCE_STRATEGY_PRIORITY,
-  英语: LANGUAGE_STRATEGY_PRIORITY,
-  日语: LANGUAGE_STRATEGY_PRIORITY,
-  物理: SCIENCE_STRATEGY_PRIORITY,
-  化学: SCIENCE_STRATEGY_PRIORITY,
-  生物: LANGUAGE_STRATEGY_PRIORITY,
-  历史: LANGUAGE_STRATEGY_PRIORITY,
-  政治: LANGUAGE_STRATEGY_PRIORITY,
-  地理: LANGUAGE_STRATEGY_PRIORITY,
-  技术: SCIENCE_STRATEGY_PRIORITY
-});
-
-export const SEVEN_DAY_VERIFIABILITY = Object.freeze([
-  "retrieval",
-  "timely_feedback",
-  "deliberate_practice",
-  "spaced_repetition",
-  "metacognition"
-]);

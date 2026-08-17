@@ -9,7 +9,7 @@ if (config.databasePath !== ":memory:") mkdirSync(dirname(config.databasePath), 
 const database = openDatabase(config.databasePath);
 const app = createApp({ database, config });
 const server = app.listen(config.port, () => {
-  console.log(`Learning Style Assessment listening on ${config.port}`);
+  console.log(`Learning Mode Assessment listening on ${config.port}`);
 });
 
 function shutdown() {

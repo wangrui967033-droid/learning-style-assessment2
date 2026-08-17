@@ -1,0 +1,14 @@
+node_modules/
+.env
+.env.*
+!.env.example
+data/
+backups/
+exports/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+*.csv
+.DS_Store
+npm-debug.log*
+.worktrees/
